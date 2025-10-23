@@ -1,0 +1,547 @@
+player_id,current_club_id,first_name,last_name,name,position,sub_position,age,market_value_in_eur,current_club_name,competition_name,Apps,Mins,Goals,Assists,SpG,KeyP,Drb,Fouled,Off,Disp,UnsTch,Rating
+342229,583,Kylian,Mbappé,Kylian Mbappé,Attack,Centre-Forward,24,180000000,Paris Saint-Germain,ligue-1,32(2),2822.0,29,5,4.4,1.6,2.2,1.2,1,1.2,1.9,7.8
+418560,281,Erling,Haaland,Erling Haaland,Attack,Centre-Forward,22,170000000,Manchester City,premier-league,33(2),2779.0,36,8,3.5,0.9,0.3,0.7,0.2,0.7,1.5,7.54
+406635,281,Phil,Foden,Phil Foden,Attack,Left Winger,22,110000000,Manchester City,premier-league,22(10),1844.0,11,5,1.4,1.3,1.3,0.9,0.2,0.9,1.1,7.13
+433177,11,Bukayo,Saka,Bukayo Saka,Attack,Right Winger,21,100000000,Arsenal FC,premier-league,37(1),3195.0,14,11,2.3,2,1.7,1.7,0.2,1.6,2.1,7.4
+132098,148,Harry,Kane,Harry Kane,Attack,Centre-Forward,29,90000000,Tottenham Hotspur,premier-league,38,3408.0,30,3,3.4,1.5,1.1,1.5,0.4,1.5,1.9,7.51
+357164,5,Rafael,Leão,Rafael Leão,Attack,Left Winger,23,85000000,AC Milan,serie-a,28(7),2434.0,15,8,2.6,1.4,2.2,0.9,0.3,1.1,2,7.19
+344381,23826,Christopher,Nkunku,Christopher Nkunku,Attack,Second Striker,25,80000000,RB Leipzig,bundesliga,20(5),1899.0,16,4,3,1.6,1.5,1.5,0.5,1.5,1.8,7.35
+357498,506,Dusan,Vlahovic,Dusan Vlahovic,Attack,Centre-Forward,22,80000000,Juventus FC,serie-a,22(5),1932.0,10,2,2.5,0.8,0.5,1.0,0.8,1.4,2.3,6.75
+406625,46,Lautaro,Martínez,Lautaro Martínez,Attack,Centre-Forward,25,75000000,Inter Milan,serie-a,27(11),2577.0,21,6,3.3,1.2,0.8,1.7,0.3,1.3,2,7.18
+480692,31,Luis,Díaz,Luis Díaz,Attack,Left Winger,25,75000000,Liverpool FC,premier-league,11(6),997.0,4,2,1.6,0.8,1.9,1.4,0.2,2.2,1.8,6.97
+134425,631,Raheem,Sterling,Raheem Sterling,Attack,Left Winger,28,70000000,Chelsea FC,premier-league,23(5),1905.0,6,3,1.5,1.2,1.4,1.1,0.4,1.8,1.6,6.74
+309400,631,Kai,Havertz,Kai Havertz,Attack,Centre-Forward,23,70000000,Chelsea FC,premier-league,30(5),2580.0,7,1,2,1.1,0.5,0.7,0.8,1,2.3,6.75
+192565,27,Leroy,Sané,Leroy Sané,Attack,Right Winger,26,70000000,Bayern Munich,bundesliga,20(12),2012.0,8,7,2.4,1.1,2.3,0.7,0.2,1.9,1.9,7.09
+203460,281,Jack,Grealish,Jack Grealish,Attack,Left Winger,27,70000000,Manchester City,premier-league,23(5),2064.0,5,7,1.5,1.8,1.6,2.8,0.1,1.0,1.3,7.33
+546543,31,Darwin,Núñez,Darwin Núñez,Attack,Centre-Forward,23,70000000,Liverpool FC,premier-league,19(10),1701.0,9,3,2.9,1.0,0.6,0.6,0.6,0.9,1.4,6.79
+401923,6195,Victor,Osimhen,Victor Osimhen,Attack,Centre-Forward,24,70000000,SSC Napoli,serie-a,30(2),2583.0,26,4,4.2,1.1,0.8,1.2,1,1.5,3,7.45
+159471,27,Serge,Gnabry,Serge Gnabry,Attack,Right Winger,27,65000000,Bayern Munich,bundesliga,22(12),1943.0,14,5,2.4,1.1,0.8,0.3,0.3,0.8,1.5,7.1
+243714,27,Kingsley,Coman,Kingsley Coman,Attack,Left Winger,26,60000000,Bayern Munich,bundesliga,16(8),1421.0,8,5,2.0,1.8,2,0.9,0.2,0.8,2.0,7.2
+434675,31,Cody,Gakpo,Cody Gakpo,Attack,Left Winger,23,60000000,Liverpool FC,premier-league,17(4),1465.0,7,2,1.9,1.1,1.1,1.6,0.4,1.7,2.0,7.06
+401173,985,Jadon,Sancho,Jadon Sancho,Attack,Left Winger,22,60000000,Manchester United,premier-league,21(5),1699.0,6,3,0.8,1.7,1.3,0.4,0.3,0.8,1.9,6.82
+288230,131,Ousmane,Dembélé,Ousmane Dembélé,Attack,Right Winger,25,60000000,FC Barcelona,laliga,16(9),1416.0,5,7,2,1.6,2.1,0.8,0.2,0.7,1.1,7.14
+655488,11,Gabriel,Martinelli,Gabriel Martinelli,Attack,Left Winger,21,60000000,Arsenal FC,premier-league,34(2),2806.0,15,5,2.2,1.6,1.7,1.0,0.2,1.6,2.3,7.25
+502670,6195,Khvicha,Kvaratskhelia,Khvicha Kvaratskhelia,Attack,Left Winger,21,60000000,SSC Napoli,serie-a,30(4),2541.0,12,10,2.5,1.6,2.2,1.3,0.2,1.4,1.9,7.43
+200512,27,Sadio,Mané,Sadio Mané,Attack,Left Winger,30,60000000,Bayern Munich,bundesliga,18(7),1432.0,7,5,2.2,1.0,1.0,1.0,0.8,0.6,2.1,6.86
+351478,681,Mikel,Oyarzabal,Mikel Oyarzabal,Attack,Left Winger,25,60000000,Real Sociedad,laliga,14(9),1217.0,4,1,0.8,0.6,0.3,0.7,0.5,0.8,1.2,6.42
+341092,506,Federico,Chiesa,Federico Chiesa,Attack,Left Winger,25,60000000,Juventus FC,serie-a,6(15),843.0,2,5,1.2,1.0,1.1,0.6,0.1,0.9,1.2,6.59
+258923,985,Marcus,Rashford,Marcus Rashford,Attack,Left Winger,25,55000000,Manchester United,premier-league,32(3),2890.0,17,5,3.1,0.9,1.5,0.7,0.4,1.3,2.3,7.08
+96341,46,Romelu,Lukaku,Romelu Lukaku,Attack,Centre-Forward,29,55000000,Inter Milan,serie-a,19(6),1663.0,10,6,2,1.3,0.6,0.2,0.5,1.1,1.9,6.96
+395516,15,Moussa,Diaby,Moussa Diaby,Attack,Right Winger,23,50000000,Bayer 04 Leverkusen,bundesliga,33,2716.0,9,8,2.4,1.8,1.5,0.7,0.3,1.3,1.9,7.06
+28003,583,Lionel,Messi,Lionel Messi,Attack,Right Winger,35,50000000,Paris Saint-Germain,ligue-1,32,2842.0,16,16,4.0,2.9,3.2,1.1,0.2,2.4,1.6,8.28
+349066,762,Alexander,Isak,Alexander Isak,Attack,Centre-Forward,23,50000000,Newcastle United,premier-league,2,154.0,1,-,1.5,1.0,1.0,-,-,1.0,1.5,6.74
+431755,148,Dejan,Kulusevski,Dejan Kulusevski,Attack,Right Winger,22,50000000,Tottenham Hotspur,premier-league,23(7),2079.0,2,7,1.4,1.6,1.7,0.8,0.1,1.7,2.6,6.78
+466810,131,Ansu,Fati,Ansu Fati,Attack,Left Winger,20,50000000,FC Barcelona,laliga,12(24),1382.0,7,3,1.7,0.4,0.6,0.4,0.3,0.8,1.0,6.55
+251664,1148,Ivan,Toney,Ivan Toney,Attack,Centre-Forward,26,45000000,Brentford FC,premier-league,33,2955.0,20,4,2.8,0.8,0.5,2.2,0.8,1.4,3.0,7.25
+331726,12,Tammy,Abraham,Tammy Abraham,Attack,Centre-Forward,25,45000000,AS Roma,serie-a,24(14),2199.0,8,3,1.6,0.9,0.6,1.3,0.3,0.8,1.6,6.75
+533738,1082,Jonathan,David,Jonathan David,Attack,Centre-Forward,22,45000000,LOSC Lille,ligue-1,36(1),3179.0,24,4,2.9,1.4,0.8,1.6,0.6,1.4,2.4,7.18
+38253,131,Robert,Lewandowski,Robert Lewandowski,Attack,Centre-Forward,34,45000000,FC Barcelona,laliga,33(1),2852.0,23,7,4,1.1,0.9,1.4,0.6,1.5,2.8,7.49
+314875,379,Jarrod,Bowen,Jarrod Bowen,Attack,Right Winger,26,42000000,West Ham United,premier-league,36(2),3237.0,6,5,2.0,1.3,0.9,1.8,0.3,1.4,1.8,6.8
+503733,762,Anthony,Gordon,Anthony Gordon,Attack,Left Winger,21,40000000,Newcastle United,premier-league,4(12),482.0,1,-,0.5,0.4,0.4,0.5,0.1,0.3,1.2,6.25
+272642,762,Allan,Saint-Maximin,Allan Saint-Maximin,Attack,Left Winger,25,40000000,Newcastle United,premier-league,12(13),1119.0,1,5,1.1,1.2,2.3,0.6,0.1,1.2,1.2,6.8
+266807,13,Ángel,Correa,Ángel Correa,Attack,Right Winger,27,40000000,Atlético de Madrid,laliga,13(22),1449.0,9,1,1.2,0.7,0.7,0.6,0.4,0.9,1.6,6.5
+315779,631,Christian,Pulisic,Christian Pulisic,Attack,Left Winger,24,38000000,Chelsea FC,premier-league,8(16),814.0,1,1,0.8,0.5,0.5,0.6,-,0.5,1.1,6.27
+418659,273,Amine,Gouiri,Amine Gouiri,Attack,Centre-Forward,22,38000000,Stade Rennais FC,ligue-1,3,228.0,-,-,1.7,1,-,0.7,-,1.7,2.3,6.35
+242086,15,Patrik,Schick,Patrik Schick,Attack,Centre-Forward,26,38000000,Bayer 04 Leverkusen,bundesliga,10(4),941.0,3,1,2.4,0.7,0.5,1.1,-,0.9,2.0,6.66
+355861,148,Arnaut,Danjuma,Arnaut Danjuma,Attack,Left Winger,25,35000000,Tottenham Hotspur,premier-league,6(4),480.0,2,-,1.2,0.5,0.3,0.7,0.3,0.6,1.1,6.24
+442891,273,Martin,Terrier,Martin Terrier,Attack,Left Winger,25,35000000,Stade Rennais FC,ligue-1,16,1330.0,9,4,2.9,1.6,0.6,1.5,0.4,0.9,1.6,7.71
+398184,131,Ferran,Torres,Ferran Torres,Attack,Left Winger,22,35000000,FC Barcelona,laliga,14(19),1385.0,4,2,1.2,0.8,0.9,0.8,0.2,0.7,1.5,6.48
+177467,1050,Gerard,Moreno,Gerard Moreno,Attack,Centre-Forward,30,35000000,Villarreal CF,laliga,14(7),1227.0,7,3,2,0.9,1.4,0.7,0.6,0.9,1.5,6.94
+18922,418,Karim,Benzema,Karim Benzema,Attack,Centre-Forward,35,35000000,Real Madrid,laliga,24,2044.0,19,3,4.5,2,0.8,0.3,0.9,1.2,1.3,7.53
+181375,16,Sébastien,Haller,Sébastien Haller,Attack,Centre-Forward,28,35000000,Borussia Dortmund,bundesliga,15(4),1232.0,9,3,1.8,0.8,0.5,0.7,0.2,0.8,0.9,7.21
+405885,6195,Giacomo,Raspadori,Giacomo Raspadori,Attack,Second Striker,22,35000000,SSC Napoli,serie-a,0(1),45.0,-,-,-,-,-,-,-,1,2,5.81
+496094,16,Karim,Adeyemi,Karim Adeyemi,Attack,Left Winger,20,35000000,Borussia Dortmund,bundesliga,20(4),1399.0,6,5,1.6,1.2,1.4,1.3,-,1.1,1.8,6.86
+398065,1003,Harvey,Barnes,Harvey Barnes,Attack,Left Winger,25,32000000,Leicester City,premier-league,32(2),2720.0,13,1,2.1,0.6,0.8,1.1,0.3,1.2,2.2,6.66
+145988,873,Wilfried,Zaha,Wilfried Zaha,Attack,Left Winger,30,32000000,Crystal Palace,premier-league,27,2295.0,7,2,2.4,1,2,2.9,0.5,3,3.5,6.82
+318528,18,Marcus,Thuram,Marcus Thuram,Attack,Centre-Forward,25,32000000,Borussia Mönchengladbach,bundesliga,28(2),2519.0,13,6,3.1,1,1.4,1.5,0.6,1.7,3.7,7.09
+487465,543,Pedro,Neto,Pedro Neto,Attack,Right Winger,22,32000000,Wolverhampton Wanderers,premier-league,14(5),972.0,-,-,0.9,1.1,0.9,0.8,0.1,0.7,1.5,6.38
+324358,405,Ollie,Watkins,Ollie Watkins,Attack,Centre-Forward,27,32000000,Aston Villa,premier-league,36(1),3136.0,15,6,2.3,0.8,0.5,1.1,0.5,1.1,2.2,6.96
+315867,379,Gianluca,Scamacca,Gianluca Scamacca,Attack,Centre-Forward,23,30000000,West Ham United,premier-league,11(5),929.0,3,-,1.9,0.8,0.4,0.6,0.4,1.2,1.4,6.51
+144028,11,Leandro,Trossard,Leandro Trossard,Attack,Left Winger,28,30000000,Arsenal FC,premier-league,10(10),930.0,1,10,0.9,1.2,0.8,0.9,0.2,1.2,0.9,6.84
+571743,631,Armando,Broja,Armando Broja,Attack,Centre-Forward,21,30000000,Chelsea FC,premier-league,2(10),290.0,1,-,0.5,0.1,0.7,0.5,0.3,0.8,1.3,6.29
+140776,13,Yannick,Carrasco,Yannick Carrasco,Attack,Left Winger,29,30000000,Atlético de Madrid,laliga,26(9),2330.0,7,3,1.9,1.3,1.7,0.6,0.2,1,1.5,6.85
+206050,12,Paulo,Dybala,Paulo Dybala,Attack,Second Striker,29,30000000,AS Roma,serie-a,22(4),1752.0,12,6,2.5,2,1,2.2,0.2,1.2,2.4,7.2
+171424,281,Riyad,Mahrez,Riyad Mahrez,Attack,Right Winger,31,30000000,Manchester City,premier-league,22(8),1924.0,5,10,1.4,1.7,0.8,1.4,0.2,0.9,1.2,7.01
+306024,29,Dominic,Calvert-Lewin,Dominic Calvert-Lewin,Attack,Centre-Forward,25,30000000,Everton FC,premier-league,15(2),1176.0,2,1,1.8,0.5,0.9,0.8,1.1,0.7,2.4,6.62
+467720,16,Youssoufa,Moukoko,Youssoufa Moukoko,Attack,Centre-Forward,18,30000000,Borussia Dortmund,bundesliga,11(15),1135.0,7,3,1.3,0.5,0.7,0.3,-,0.8,1.2,6.6
+413039,1148,Bryan,Mbeumo,Bryan Mbeumo,Attack,Right Winger,23,28000000,Brentford FC,premier-league,36(2),2931.0,9,8,1.9,1.3,1.2,0.6,0.2,1.4,1.9,7.01
+321247,405,Emiliano,Buendía,Emiliano Buendía,Attack,Right Winger,26,28000000,Aston Villa,premier-league,27(11),2423.0,5,2,1.3,1.1,0.7,1.2,-,1.5,1.7,6.7
+316889,6195,Hirving,Lozano,Hirving Lozano,Attack,Right Winger,27,28000000,SSC Napoli,serie-a,20(12),1614.0,3,3,1.3,0.9,1.2,1,0.1,0.4,1.2,6.77
+585959,273,Arnaud,Kalimuendo,Arnaud Kalimuendo,Attack,Centre-Forward,20,25000000,Stade Rennais FC,ligue-1,24(6),1862.0,7,3,1.4,0.4,0.8,0.8,0.2,1.2,1.9,6.62
+128223,13,Álvaro,Morata,Álvaro Morata,Attack,Centre-Forward,30,25000000,Atlético de Madrid,laliga,23(13),1906.0,13,2,2,0.5,0.6,1.6,0.7,0.7,1.5,6.85
+170527,23826,Timo,Werner,Timo Werner,Attack,Centre-Forward,26,25000000,RB Leipzig,bundesliga,23(4),1948.0,9,3,2.3,0.7,1,0.5,0.9,0.8,2,6.82
+417346,399,Jack,Harrison,Jack Harrison,Attack,Left Winger,26,25000000,Leeds United,premier-league,34(2),2729.0,5,7,1.1,1.5,1.3,1,0.1,1.7,2.6,6.72
+392768,15,Callum,Hudson-Odoi,Callum Hudson-Odoi,Attack,Left Winger,22,25000000,Bayer 04 Leverkusen,bundesliga,7(7),609.0,-,1,0.3,0.9,0.9,1.4,0.1,1,0.5,6.42
+125781,13,Antoine,Griezmann,Antoine Griezmann,Attack,Second Striker,31,25000000,Atlético de Madrid,laliga,31(7),2863.0,15,16,2.9,2.2,1.2,1.1,0.3,0.9,1.1,7.69
+387626,405,Leon,Bailey,Leon Bailey,Attack,Left Winger,25,25000000,Aston Villa,premier-league,26(7),1984.0,4,4,1.5,0.9,1.2,0.7,0.3,1.6,1.5,6.61
+709187,621,Nico,Williams,Nico Williams,Attack,Right Winger,20,25000000,Athletic Bilbao,laliga,32(4),2675.0,6,4,1.7,1.3,2.3,1.0,0.4,1.3,2.4,6.89
+255508,621,Iñaki,Williams,Iñaki Williams,Attack,Centre-Forward,28,25000000,Athletic Bilbao,laliga,34(2),2853.0,10,3,2.4,1.1,1.3,0.9,0.6,1.2,2,6.83
+278359,150,Borja,Iglesias,Borja Iglesias,Attack,Centre-Forward,29,25000000,Real Betis Balompié,laliga,29(6),2385.0,15,3,1.8,0.6,0.3,1.5,0.6,1.1,2.3,6.63
+583189,985,Anthony,Elanga,Anthony Elanga,Attack,Left Winger,20,25000000,Manchester United,premier-league,5(11),424.0,-,1,0.6,0.4,0.3,0.4,0.2,0.4,0.8,6.26
+296622,418,Marco,Asensio,Marco Asensio,Attack,Right Winger,26,25000000,Real Madrid,laliga,15(16),1436.0,9,6,1.9,1.3,0.7,0.5,0.1,0.4,0.6,6.94
+709726,583,Hugo,Ekitiké,Hugo Ekitiké,Attack,Centre-Forward,20,25000000,Paris Saint-Germain,ligue-1,12(13),1155.0,3,4,1.4,0.4,0.6,0.5,0.3,0.7,1.1,6.59
+251106,3709,Enes,Ünal,Enes Ünal,Attack,Centre-Forward,25,25000000,Getafe CF,laliga,35,2986.0,14,3,2.5,0.8,0.6,2.2,0.8,1.4,2.5,7.07
+198008,23826,André,Silva,André Silva,Attack,Centre-Forward,27,24000000,RB Leipzig,bundesliga,20(11),1741.0,4,3,1.9,0.8,0.7,1.4,0.3,1.4,2.1,6.63
+177843,6574,Domenico,Berardi,Domenico Berardi,Attack,Right Winger,28,23000000,US Sassuolo,serie-a,22(4),1872.0,12,7,3.2,1.7,0.8,1.9,0.3,0.9,2.3,7.15
+105521,398,Ciro,Immobile,Ciro Immobile,Attack,Centre-Forward,32,23000000,SS Lazio,serie-a,27(4),2228.0,12,5,2.5,0.8,0.6,0.8,0.7,0.7,2,6.87
+486031,430,Nicolás,González,Nicolás González,Attack,Left Winger,24,23000000,ACF Fiorentina,serie-a,13(11),1355.0,6,1,2.5,0.8,1,2.3,0.2,0.6,1.9,6.79
+343052,417,Nicolas,Pépé,Nicolas Pépé,Attack,Right Winger,27,22000000,OGC Nice,ligue-1,17(2),1529.0,6,-,2.6,1.5,1.8,1.8,0.3,2.7,2.4,6.96
+566723,873,Michael,Olise,Michael Olise,Attack,Right Winger,21,22000000,Crystal Palace,premier-league,31(6),2757.0,2,11,1.4,1.9,1.5,1.9,0.2,1.3,2.3,6.99
+264372,12321,Viktor,Tsygankov,Viktor Tsygankov,Attack,Right Winger,25,22000000,Girona FC,laliga,17(2),1494.0,3,6,1,1.9,0.9,1.1,0.1,0.8,0.8,6.91
+290532,379,Saïd,Benrahma,Saïd Benrahma,Attack,Left Winger,27,22000000,West Ham United,premier-league,22(13),2073.0,6,3,2.1,1.4,1.5,0.4,0.2,1.2,1.5,6.7
+512385,399,Luis,Sinisterra,Luis Sinisterra,Attack,Left Winger,23,22000000,Leeds United,premier-league,13(6),875.0,5,-,1.5,0.5,1,0.6,0.3,1.2,0.8,6.58
+346779,180,Ché,Adams,Ché Adams,Attack,Centre-Forward,26,22000000,Southampton FC,premier-league,23(5),1998.0,5,3,1.7,0.9,0.6,1.0,0.5,1,2.4,6.6
+283735,398,Mattia,Zaccagni,Mattia Zaccagni,Attack,Left Winger,27,22000000,SS Lazio,serie-a,33(2),2783.0,10,6,1.6,1,1.7,3.3,0.1,1,1.4,7.16
+326029,16,Donyell,Malen,Donyell Malen,Attack,Right Winger,23,20000000,Borussia Dortmund,bundesliga,22(4),1724.0,9,5,2.5,1.1,2,1.5,0.1,1.5,1.5,7.2
+801734,27,Mathys,Tel,Mathys Tel,Attack,Centre-Forward,17,20000000,Bayern Munich,bundesliga,1(21),399.0,5,-,0.9,0.3,0.5,0.3,0.2,0.5,1.1,6.36
+315865,6574,Andrea,Pinamonti,Andrea Pinamonti,Attack,Centre-Forward,23,20000000,US Sassuolo,serie-a,25(7),2174.0,5,-,2.1,0.5,0.3,1,0.3,1.8,1.9,6.38
+237662,162,Breel,Embolo,Breel Embolo,Attack,Centre-Forward,25,20000000,AS Monaco,ligue-1,19(13),1856.0,12,2,1.3,0.9,1,1.8,0.4,1.4,2.1,6.83
+256977,543,Daniel,Podence,Daniel Podence,Attack,Left Winger,27,20000000,Wolverhampton Wanderers,premier-league,20(12),1773.0,6,-,1.3,1.1,0.8,0.7,0.1,0.9,1.5,6.5
+167850,13,Memphis,Depay,Memphis Depay,Attack,Centre-Forward,28,20000000,Atlético de Madrid,laliga,3(5),269.0,4,-,1.4,0.6,0.5,0.8,-,1.1,2.0,6.62
+217111,631,Hakim,Ziyech,Hakim Ziyech,Attack,Right Winger,29,20000000,Chelsea FC,premier-league,6(12),653.0,-,3,0.9,0.8,0.8,0.8,0.2,0.7,0.7,6.45
+227081,46,Joaquín,Correa,Joaquín Correa,Attack,Second Striker,28,20000000,Inter Milan,serie-a,12(14),947.0,3,1,0.8,0.6,0.5,0.7,0.1,0.6,1.1,6.39
+292417,29,Demarai,Gray,Demarai Gray,Attack,Left Winger,26,20000000,Everton FC,premier-league,27(6),2512.0,4,1,1.8,1.1,1.1,1.5,0.4,2,2.6,6.62
+295313,703,Taiwo,Awoniyi,Taiwo Awoniyi,Attack,Centre-Forward,25,20000000,Nottingham Forest,premier-league,17(10),1412.0,10,1,1.3,0.4,0.3,0.7,0.6,1.1,2.5,6.5
+364135,506,Moise,Kean,Moise Kean,Attack,Centre-Forward,22,20000000,Juventus FC,serie-a,11(17),990.0,6,-,1.4,0.3,0.5,0.6,0.3,1,1,6.33
+272999,762,Miguel,Almirón,Miguel Almirón,Attack,Right Winger,28,20000000,Newcastle United,premier-league,29(5),2508.0,11,2,2,0.8,1,1.0,0.3,0.8,1.5,6.91
+406040,800,Ademola,Lookman,Ademola Lookman,Attack,Second Striker,25,20000000,Atalanta BC,serie-a,20(11),1737.0,13,6,1.7,1.3,1.1,1.2,0.4,1.5,1.5,6.91
+365172,1003,Patson,Daka,Patson Daka,Attack,Centre-Forward,24,20000000,Leicester City,premier-league,13(17),1181.0,4,4,1.0,0.6,0.2,0.5,0.2,0.6,1.5,6.45
+517894,543,Matheus,Cunha,Matheus Cunha,Attack,Centre-Forward,23,20000000,Wolverhampton Wanderers,premier-league,2(9),372.0,-,2,1.1,0.5,0.5,0.5,0.1,0.5,0.8,6.42
+74230,543,Pablo,Sarabia,Pablo Sarabia,Attack,Right Winger,30,20000000,Wolverhampton Wanderers,premier-league,9(4),772.0,1,-,1.5,0.8,0.2,0.6,0.2,1.1,0.7,6.38
+165895,6195,Matteo,Politano,Matteo Politano,Attack,Right Winger,29,20000000,SSC Napoli,serie-a,14(13),1168.0,3,3,1.2,1.3,0.9,0.8,-,0.4,1.1,6.6
+401922,1050,Samuel,Chukwueze,Samuel Chukwueze,Attack,Right Winger,23,20000000,Villarreal CF,laliga,27(10),2350.0,6,5,1.6,1.2,2.3,0.9,0.3,0.8,1.8,6.89
+292818,1082,Jonathan,Bamba,Jonathan Bamba,Attack,Left Winger,26,20000000,LOSC Lille,ligue-1,32(2),2790.0,6,7,2.1,1.4,1,1.7,0.4,1.8,1.9,6.91
+486049,273,Jérémy,Doku,Jérémy Doku,Attack,Right Winger,20,18000000,Stade Rennais FC,ligue-1,13(16),1287.0,6,2,0.9,1.0,3.3,1.2,-,0.8,1.5,7.08
+369567,543,Sasa,Kalajdzic,Sasa Kalajdzic,Attack,Centre-Forward,25,18000000,Wolverhampton Wanderers,premier-league,3,235.0,-,3,1.7,2,-,0.3,-,1,1.7,6.87
+73794,800,Duván,Zapata,Duván Zapata,Attack,Centre-Forward,31,18000000,Atalanta BC,serie-a,16(9),1393.0,2,2,1.6,0.7,0.8,1.5,0.3,1.8,2.1,6.51
+189441,368,Lucas,Ocampos,Lucas Ocampos,Attack,Right Winger,28,18000000,Sevilla FC,laliga,11(8),1163.0,4,-,1.6,0.7,1.3,1.3,0.3,0.9,2.1,6.71
+337715,681,Umar,Sadiq,Umar Sadiq,Attack,Centre-Forward,25,18000000,Real Sociedad,laliga,1(1),83.0,1,-,0.5,-,1.0,0.5,2,1.0,3.0,6.6
+746695,180,Kamaldeen,Sulemana,Kamaldeen Sulemana,Attack,Left Winger,20,18000000,Southampton FC,premier-league,10(8),968.0,2,1,1.3,0.8,2,0.7,0.1,0.9,1.9,6.62
+314288,82,Lukas,Nmecha,Lukas Nmecha,Attack,Centre-Forward,24,18000000,VfL Wolfsburg,bundesliga,10(6),901.0,4,-,1.4,0.4,0.6,1.7,0.5,0.7,2.4,6.48
+258889,989,Dominic,Solanke,Dominic Solanke,Attack,Centre-Forward,25,18000000,AFC Bournemouth,premier-league,32(1),2873.0,6,7,2.3,0.6,1.4,1.6,0.3,2.2,4.1,6.79
+396638,931,Manor,Solomon,Manor Solomon,Attack,Left Winger,23,18000000,Fulham FC,premier-league,4(15),563.0,4,-,0.6,0.3,1,0.2,0.1,0.6,0.7,6.52
+584769,29,Dwight,McNeil,Dwight McNeil,Attack,Left Winger,23,18000000,Everton FC,premier-league,28(8),2502.0,7,3,1.3,1.4,1.5,0.6,-,1.3,1.5,6.99
+569389,417,Sofiane,Diop,Sofiane Diop,Attack,Left Winger,22,18000000,OGC Nice,ligue-1,14(8),1231.0,1,4,1.3,1.0,1,1.2,0.1,1,1.8,6.73
+123682,762,Callum,Wilson,Callum Wilson,Attack,Centre-Forward,30,18000000,Newcastle United,premier-league,21(10),1887.0,18,5,2.4,0.7,0.4,1.0,0.5,1.2,2.3,6.92
+659542,969,Elye,Wahi,Elye Wahi,Attack,Centre-Forward,19,18000000,Montpellier HSC,ligue-1,29(4),2530.0,19,5,1.9,0.7,0.9,1.2,0.8,1.4,2.6,6.87
+340324,11,Eddie,Nketiah,Eddie Nketiah,Attack,Centre-Forward,23,18000000,Arsenal FC,premier-league,9(21),1073.0,4,1,1.4,0.3,0.5,0.8,0.3,0.7,1,6.44
+80444,405,Philippe,Coutinho,Philippe Coutinho,Attack,Left Winger,30,18000000,Aston Villa,premier-league,7(13),783.0,1,-,1.1,0.4,0.7,0.7,0.1,0.9,1.2,6.37
+229004,1041,Moussa,Dembélé,Moussa Dembélé,Attack,Centre-Forward,26,18000000,Olympique Lyon,ligue-1,8(15),866.0,3,-,1.2,0.2,0.2,0.1,0.3,0.7,1.4,6.32
+58358,27,Thomas,Müller,Thomas Müller,Attack,Second Striker,33,18000000,Bayern Munich,bundesliga,21(6),1672.0,7,8,1.7,1.4,0.3,0.4,0.2,0.7,1.8,7.12
+282388,6195,Giovanni,Simeone,Giovanni Simeone,Attack,Centre-Forward,27,17000000,SSC Napoli,serie-a,1(24),389.0,4,1,0.6,0.2,0.3,0.4,-,0.5,1.1,6.28
+644401,1148,Keane,Lewis-Potter,Keane Lewis-Potter,Attack,Left Winger,21,17000000,Brentford FC,premier-league,3(7),318.0,-,1,0.7,0.5,0.4,0.4,0.1,0.8,1.1,6.25
+341647,244,Cengiz,Ünder,Cengiz Ünder,Attack,Right Winger,25,17000000,Olympique Marseille,ligue-1,28(9),2497.0,5,4,1.9,1.5,1.1,0.8,0.2,0.8,1.6,6.87
+295330,1003,Kelechi,Iheanacho,Kelechi Iheanacho,Attack,Centre-Forward,26,17000000,Leicester City,premier-league,11(17),1122.0,5,5,1.4,0.8,0.7,0.2,0.4,1.3,1.5,6.47
+279455,931,Harry,Wilson,Harry Wilson,Attack,Right Winger,25,17000000,Fulham FC,premier-league,13(16),1099.0,2,3,0.6,0.4,0.4,1.1,0.1,0.5,0.8,6.43
+134294,379,Danny,Ings,Danny Ings,Attack,Centre-Forward,30,16000000,West Ham United,premier-league,7(10),771.0,2,2,0.9,0.4,0.3,0.5,0.3,0.6,0.6,6.35
+129476,410,Gerard,Deulofeu,Gerard Deulofeu,Attack,Centre-Forward,28,16000000,Udinese Calcio,serie-a,15(1),1219.0,2,6,2.8,3.0,1.3,0.7,0.5,1.1,1.4,7.06
+694928,1049,Samuel,Lino,Samuel Lino,Attack,Left Winger,23,16000000,Valencia CF,laliga,33(5),2897.0,6,1,2.5,0.7,1.4,1.6,0.4,1.5,2.2,6.81
+324690,430,Jonathan,Ikoné,Jonathan Ikoné,Attack,Right Winger,24,16000000,ACF Fiorentina,serie-a,24(9),2012.0,4,4,1.5,0.9,1.5,0.8,0.2,1.4,1.8,6.58
+538977,399,Georginio,Rutter,Georginio Rutter,Attack,Centre-Forward,20,16000000,Leeds United,premier-league,11(4),1010.0,2,2,1.8,0.7,2.3,1.3,1.1,1.7,3.1,6.83
+323831,24,Rafael,Borré,Rafael Borré,Attack,Centre-Forward,27,16000000,Eintracht Frankfurt,bundesliga,10(22),1062.0,2,2,0.8,0.5,0.5,0.3,0.6,0.4,1.4,6.29
+319301,399,Daniel,James,Daniel James,Attack,Right Winger,25,16000000,Leeds United,premier-league,5(15),614.0,2,1,0.7,0.4,0.3,0.7,0.1,0.7,0.5,6.27
+82009,162,Kevin,Volland,Kevin Volland,Attack,Centre-Forward,30,16000000,AS Monaco,ligue-1,7(10),638.0,3,2,0.9,0.8,0.1,0.8,0.4,0.4,1.1,6.43
+538874,417,Terem,Moffi,Terem Moffi,Attack,Centre-Forward,23,15000000,OGC Nice,ligue-1,17(1),1398.0,12,-,1.9,0.5,1.1,0.9,0.2,0.7,2.3,7.01
+433049,368,Youssef,En-Nesyri,Youssef En-Nesyri,Attack,Centre-Forward,25,15000000,Sevilla FC,laliga,17(14),1660.0,8,1,1.9,0.3,0.1,0.4,0.7,0.3,1.5,6.55
+503987,631,Noni,Madueke,Noni Madueke,Attack,Right Winger,20,15000000,Chelsea FC,premier-league,7(5),646.0,1,-,1.0,1.1,2.8,1.3,0.2,1.1,1.4,6.8
+540941,1148,Mikkel,Damsgaard,Mikkel Damsgaard,Attack,Left Winger,22,15000000,Brentford FC,premier-league,9(17),982.0,-,-,0.5,0.4,0.3,0.4,-,0.2,0.6,6.35
+204103,543,Adama,Traoré,Adama Traoré,Attack,Right Winger,26,15000000,Wolverhampton Wanderers,premier-league,12(22),1492.0,2,1,0.6,0.7,1.6,1,0.2,0.8,1.7,6.52
+272855,180,Paul,Onuachu,Paul Onuachu,Attack,Centre-Forward,28,15000000,Southampton FC,premier-league,4(7),405.0,-,-,1,0.4,0.8,0.5,0.5,0.8,2,6.44
+182877,985,Anthony,Martial,Anthony Martial,Attack,Centre-Forward,27,15000000,Manchester United,premier-league,11(10),980.0,6,2,1.3,0.6,0.7,0.7,0.3,1,1.6,6.59
+381950,5,Alexis,Saelemaekers,Alexis Saelemaekers,Attack,Right Winger,23,15000000,AC Milan,serie-a,14(16),1399.0,2,3,1.2,0.7,1,0.7,0.1,0.7,1.3,6.59
+216569,800,Jérémie,Boga,Jérémie Boga,Attack,Left Winger,25,15000000,Atalanta BC,serie-a,5(18),770.0,2,5,0.6,1.5,2.1,0.7,-,0.5,1.3,6.78
+188888,89,Sheraldo,Becker,Sheraldo Becker,Attack,Second Striker,27,15000000,1.FC Union Berlin,bundesliga,33(1),2582.0,11,7,2,1.3,0.8,0.8,0.7,1,1.8,6.91
+333647,39,Jonathan,Burkardt,Jonathan Burkardt,Attack,Centre-Forward,22,15000000,1.FSV Mainz 05,bundesliga,7(4),537.0,1,2,1.9,0.6,1.0,1.0,0.3,0.8,1.5,6.48
+234781,379,Maxwel,Cornet,Maxwel Cornet,Attack,Left Winger,26,15000000,West Ham United,premier-league,2(12),235.0,-,-,0.6,0.1,0.1,0.1,0.6,0.4,0.6,6.09
+358504,60,Ritsu,Doan,Ritsu Doan,Attack,Right Winger,24,15000000,SC Freiburg,bundesliga,30(3),2445.0,5,4,1.7,0.8,1.5,1.6,0.2,1.6,2.3,6.9
+610442,800,Rasmus,Højlund,Rasmus Højlund,Attack,Centre-Forward,19,15000000,Atalanta BC,serie-a,20(12),1836.0,9,2,1.7,0.8,0.9,1,0.2,1.8,2.9,6.67
+167727,12,Andrea,Belotti,Andrea Belotti,Attack,Centre-Forward,29,15000000,AS Roma,serie-a,11(20),1135.0,-,2,0.6,0.5,0.2,1.2,0.2,0.5,1.1,6.25
+670847,681,Mohamed-Ali,Cho,Mohamed-Ali Cho,Attack,Centre-Forward,18,15000000,Real Sociedad,laliga,5(14),580.0,1,2,1.2,0.4,0.8,0.6,0.2,0.5,1.5,6.47
+552057,15,Adam,Hlozek,Adam Hlozek,Attack,Centre-Forward,20,15000000,Bayer 04 Leverkusen,bundesliga,16(13),1290.0,5,3,1,0.6,0.3,0.7,-,0.8,1.5,6.5
+250426,180,Adam,Armstrong,Adam Armstrong,Attack,Centre-Forward,25,15000000,Southampton FC,premier-league,14(16),1336.0,2,1,0.8,0.4,0.4,0.3,0.1,0.7,0.8,6.27
+388165,1148,Yoane,Wissa,Yoane Wissa,Attack,Left Winger,26,15000000,Brentford FC,premier-league,16(22),1601.0,7,3,0.8,0.3,0.5,0.7,0.5,0.7,1.1,6.51
+776890,1050,Nicolas,Jackson,Nicolas Jackson,Attack,Centre-Forward,21,15000000,Villarreal CF,laliga,16(10),1603.0,12,4,1.6,0.8,0.9,1,0.5,1.5,2.1,6.87
+277033,989,David,Brooks,David Brooks,Attack,Right Winger,25,14000000,AFC Bournemouth,premier-league,2(4),172.0,-,-,0.8,0.3,0.3,0.2,-,0.7,0.7,6.07
+330659,1049,Justin,Kluivert,Justin Kluivert,Attack,Left Winger,23,14000000,Valencia CF,laliga,15(11),1452.0,6,-,1.7,0.9,1.2,0.7,0.4,0.8,1.5,6.66
+391004,82,Jonas,Wind,Jonas Wind,Attack,Centre-Forward,23,14000000,VfL Wolfsburg,bundesliga,15(9),1294.0,6,-,1.3,0.6,0.3,0.9,-,0.8,1.9,6.68
+257462,430,Luka,Jovic,Luka Jovic,Attack,Centre-Forward,25,14000000,ACF Fiorentina,serie-a,16(15),1529.0,6,3,1.8,0.7,0.5,0.3,0.4,0.5,0.8,6.53
+131996,405,Bertrand,Traoré,Bertrand Traoré,Attack,Right Winger,27,14000000,Aston Villa,premier-league,1(7),227.0,2,-,1.1,0.1,0.1,1.0,0.4,0.9,1,6.36
+503770,1421,Folarin,Balogun,Folarin Balogun,Attack,Centre-Forward,21,14000000,Stade Reims,ligue-1,34(3),3013.0,21,2,3.5,1,0.9,1.5,0.8,2,2.5,6.9
+228645,985,Wout,Weghorst,Wout Weghorst,Attack,Centre-Forward,30,14000000,Manchester United,premier-league,10(7),797.0,-,1,0.8,0.8,0.2,0.5,0.3,0.7,0.9,6.38
+181378,417,Gaëtan,Laborde,Gaëtan Laborde,Attack,Centre-Forward,28,14000000,OGC Nice,ligue-1,3(1),251.0,2,-,2.8,0.8,0.5,0.3,-,1,2.8,6.86
+579930,6574,Armand,Laurienté,Armand Laurienté,Attack,Left Winger,24,14000000,US Sassuolo,serie-a,27(1),2191.0,7,6,2.0,2.2,2.3,1.5,0.3,1.9,2.0,7.11
+7161,18,Jonas,Hofmann,Jonas Hofmann,Attack,Right Winger,30,13000000,Borussia Mönchengladbach,bundesliga,30(1),2693.0,12,9,1.5,3.2,0.5,1.3,0.7,1.1,1.4,7.25
+187587,5,Ante,Rebic,Ante Rebic,Attack,Left Winger,29,13000000,AC Milan,serie-a,10(13),977.0,3,2,1.2,0.6,0.7,0.7,0.3,0.7,1.1,6.46
+337725,430,Christian,Kouamé,Christian Kouamé,Attack,Centre-Forward,25,13000000,ACF Fiorentina,serie-a,22(6),1871.0,4,4,1.5,1.4,0.8,2.0,0.3,1.5,2.9,6.79
+490426,162,Krépin,Diatta,Krépin Diatta,Attack,Right Winger,23,13000000,AS Monaco,ligue-1,22(9),2079.0,4,2,1.3,0.8,1,0.8,0.3,0.6,1.5,6.78
+217115,29,Neal,Maupay,Neal Maupay,Attack,Centre-Forward,26,13000000,Everton FC,premier-league,11(16),1115.0,1,-,1.2,0.3,0.3,0.8,-,0.6,1.4,6.2
+557612,180,Sékou,Mara,Sékou Mara,Attack,Centre-Forward,20,12000000,Southampton FC,premier-league,4(18),541.0,1,2,0.8,0.3,0.6,0.3,0.1,0.8,1.3,6.27
+537382,368,Bryan,Gil,Bryan Gil,Attack,Left Winger,21,12000000,Sevilla FC,laliga,10(7),921.0,2,2,1,0.5,1.1,1.2,0.2,1.1,1.8,6.53
+473050,1148,Kevin,Schade,Kevin Schade,Attack,Right Winger,21,12000000,Brentford FC,premier-league,1(7),175.0,1,-,0.5,-,0.4,0.8,-,0.8,1.0,6.33
+303259,44,Dodi,Lukébakio,Dodi Lukébakio,Attack,Right Winger,25,12000000,Hertha BSC,bundesliga,27(5),2407.0,11,3,2.0,0.9,2.1,1.8,0.5,1.5,2.6,6.85
+626913,380,Boulaye,Dia,Boulaye Dia,Attack,Centre-Forward,26,12000000,US Salernitana 1919,serie-a,27(6),2527.0,16,6,1.5,1.1,1.1,1.3,0.4,1.8,2.2,6.88
+209212,1237,Solly,March,Solly March,Attack,Right Winger,28,12000000,Brighton & Hove Albion,premier-league,31(2),2728.0,7,7,2.2,2,1.8,1.2,0.4,1,1.7,7.38
+58864,631,Pierre-Emerick,Aubameyang,Pierre-Emerick Aubameyang,Attack,Centre-Forward,33,12000000,Chelsea FC,premier-league,0(1),8.0,-,-,1,-,-,-,-,-,-,6.21
+185077,60,Vincenzo,Grifo,Vincenzo Grifo,Attack,Left Winger,29,12000000,SC Freiburg,bundesliga,30(3),2427.0,15,5,2.0,1.7,1.3,0.9,0.2,0.8,1.3,7.27
+486624,1025,Musa,Barrow,Musa Barrow,Attack,Left Winger,24,12000000,Bologna FC 1909,serie-a,26(6),1971.0,3,8,2.0,1.3,0.8,0.6,0.2,1,1.6,6.62
+122797,995,Andy,Delort,Andy Delort,Attack,Centre-Forward,31,12000000,FC Nantes,ligue-1,6(6),471.0,-,-,1.5,0.8,0.5,0.3,0.3,0.7,1.2,6.28
+180337,15,Sardar,Azmoun,Sardar Azmoun,Attack,Centre-Forward,27,12000000,Bayer 04 Leverkusen,bundesliga,8(15),917.0,4,1,1.2,0.6,0.3,-,0.3,0.4,1,6.44
+183334,399,Patrick,Bamford,Patrick Bamford,Attack,Centre-Forward,29,12000000,Leeds United,premier-league,18(10),1523.0,4,2,1.8,0.4,0.4,1,0.6,0.8,2,6.36
+206040,543,Raúl,Jiménez,Raúl Jiménez,Attack,Centre-Forward,31,12000000,Wolverhampton Wanderers,premier-league,8(7),843.0,-,1,1.3,0.6,0.3,0.9,0.6,0.9,1.5,6.35
+119228,800,Luis,Muriel,Luis Muriel,Attack,Centre-Forward,31,12000000,Atalanta BC,serie-a,10(19),1071.0,3,3,1.2,1.3,1.2,0.5,0.1,0.9,1.7,6.5
+532776,15,Amine,Adli,Amine Adli,Attack,Left Winger,22,12000000,Bayer 04 Leverkusen,bundesliga,16(10),1443.0,5,3,1.4,0.8,1,1.8,0.2,0.7,2,6.69
+93720,1041,Alexandre,Lacazette,Alexandre Lacazette,Attack,Centre-Forward,31,12000000,Olympique Lyon,ligue-1,34(1),2938.0,27,5,3.3,1.4,1.1,1.6,0.4,1.3,1.9,7.42
+448854,703,Emmanuel,Dennis,Emmanuel Dennis,Attack,Centre-Forward,25,12000000,Nottingham Forest,premier-league,6(13),715.0,2,2,1.1,0.4,1.1,1.5,0.2,1.3,1.7,6.44
+361254,368,Rafa,Mir,Rafa Mir,Attack,Centre-Forward,25,12000000,Sevilla FC,laliga,16(10),1300.0,6,-,1.9,0.3,-,0.4,0.7,0.5,0.9,6.39
+368887,826,Loïs,Openda,Loïs Openda,Attack,Centre-Forward,22,12000000,RC Lens,ligue-1,29(9),2529.0,21,4,2.7,0.6,0.5,1.2,0.6,0.6,1.6,6.99
+186644,180,Mohamed,Elyounoussi,Mohamed Elyounoussi,Attack,Left Winger,28,12000000,Southampton FC,premier-league,27(6),2180.0,1,1,1.1,0.5,0.8,0.5,0.1,1.2,1.2,6.49
+332798,60,Roland,Sallai,Roland Sallai,Attack,Right Winger,25,12000000,SC Freiburg,bundesliga,10(9),1003.0,1,3,1.6,0.9,0.6,1.6,0.2,0.5,1.1,6.64
+370846,1082,Timothy,Weah,Timothy Weah,Attack,Right Winger,22,12000000,LOSC Lille,ligue-1,18(11),1748.0,-,2,1.0,0.6,0.7,0.6,0.1,0.3,0.8,6.53
+283196,533,Kasper,Dolberg,Kasper Dolberg,Attack,Centre-Forward,25,12000000,TSG 1899 Hoffenheim,bundesliga,2(2),198.0,-,1,0.5,0.3,0.3,1,-,0.5,0.8,6.32
+405398,681,Takefusa,Kubo,Takefusa Kubo,Attack,Right Winger,21,12000000,Real Sociedad,laliga,29(6),2452.0,9,4,2.1,1.1,1.4,1.4,0.6,1.2,2.6,6.98
+344888,667,Habib,Diallo,Habib Diallo,Attack,Centre-Forward,27,12000000,RC Strasbourg Alsace,ligue-1,32(5),2880.0,20,1,2.5,0.7,0.8,1.7,0.5,0.9,3.2,7.04
+660867,1237,Julio,Enciso,Julio Enciso,Attack,Centre-Forward,18,11000000,Brighton & Hove Albion,premier-league,7(13),802.0,4,2,1.9,0.7,1.6,0.8,0.2,1,1,6.78
+283994,39,Ludovic,Ajorque,Ludovic Ajorque,Attack,Centre-Forward,28,11000000,1.FSV Mainz 05,bundesliga,15(2),1220.0,6,1,1.9,0.8,0.4,1.1,0.3,0.8,2.7,6.97
+435648,1025,Joshua,Zirkzee,Joshua Zirkzee,Attack,Centre-Forward,21,11000000,Bologna FC 1909,serie-a,5(14),809.0,2,2,1.5,0.8,0.8,0.5,0.1,1.3,1.9,6.44
+327757,380,Krzysztof,Piatek,Krzysztof Piatek,Attack,Centre-Forward,27,11000000,US Salernitana 1919,serie-a,23(10),2144.0,4,5,1.8,0.7,0.3,1.3,0.7,1.1,2.4,6.59
+237164,533,Ihlas,Bebou,Ihlas Bebou,Attack,Centre-Forward,28,11000000,TSG 1899 Hoffenheim,bundesliga,17(2),1423.0,7,-,1.5,0.8,1.4,0.5,0.4,0.9,3.2,6.83
+485424,180,Moussa,Djenepo,Moussa Djenepo,Attack,Left Winger,24,10000000,Southampton FC,premier-league,7(9),706.0,-,2,0.2,0.6,1.2,1.2,0.1,0.4,0.9,6.45
+165793,162,Takumi,Minamino,Takumi Minamino,Attack,Left Winger,27,10000000,AS Monaco,ligue-1,10(8),726.0,1,3,1.2,0.6,0.4,0.6,0.2,0.6,1.6,6.44
+627626,399,Wilfried,Gnonto,Wilfried Gnonto,Attack,Left Winger,19,10000000,Leeds United,premier-league,14(10),1353.0,2,4,0.9,0.9,0.9,1.6,0.1,0.8,1.3,6.48
+157635,23826,Yussuf,Poulsen,Yussuf Poulsen,Attack,Centre-Forward,28,10000000,RB Leipzig,bundesliga,3(16),400.0,2,1,0.7,0.4,0.3,0.5,0.1,0.5,1.4,6.41
+429874,24,Ansgar,Knauff,Ansgar Knauff,Attack,Right Winger,20,10000000,Eintracht Frankfurt,bundesliga,14(10),1289.0,1,1,0.6,0.3,0.9,0.7,0.1,0.4,1.3,6.51
+256267,237,Vedat,Muriqi,Vedat Muriqi,Attack,Centre-Forward,28,10000000,RCD Mallorca,laliga,34(1),2953.0,15,3,2.2,0.6,0.3,1.1,0.8,1.3,2.3,7.01
+823231,989,Dango,Ouattara,Dango Ouattara,Attack,Right Winger,20,10000000,AFC Bournemouth,premier-league,15(4),1246.0,1,3,1.4,0.9,1.6,0.8,0.4,0.7,2.1,6.74
+238407,681,Alexander,Sørloth,Alexander Sørloth,Attack,Centre-Forward,27,10000000,Real Sociedad,laliga,28(6),2398.0,12,3,1.9,0.9,0.9,0.5,0.5,1.8,2.5,6.85
+184892,410,Florian,Thauvin,Florian Thauvin,Attack,Right Winger,29,10000000,Udinese Calcio,serie-a,5(11),543.0,-,-,0.6,0.6,0.6,0.4,0.1,0.5,1.2,6.21
+146795,762,Ryan,Fraser,Ryan Fraser,Attack,Left Winger,28,10000000,Newcastle United,premier-league,3(5),311.0,-,-,0.8,0.6,0.1,1.3,0.1,0.1,0.9,6.24
+257448,162,Gelson,Martins,Gelson Martins,Attack,Right Winger,27,10000000,AS Monaco,ligue-1,3(8),341.0,-,-,1.1,0.3,0.4,0.4,0.2,0.6,0.9,6.31
+199527,762,Jacob,Murphy,Jacob Murphy,Attack,Right Winger,27,10000000,Newcastle United,premier-league,14(22),1246.0,4,2,0.8,0.5,0.4,0.4,0.1,0.6,0.5,6.44
+594991,1082,Mohamed,Bayo,Mohamed Bayo,Attack,Centre-Forward,24,10000000,LOSC Lille,ligue-1,6(21),640.0,4,1,0.8,0.4,0.4,0.1,0.2,0.5,0.8,6.29
+199258,2919,Andrea,Petagna,Andrea Petagna,Attack,Centre-Forward,27,10000000,AC Monza,serie-a,19(12),1671.0,4,5,1.2,1,0.6,1,0.3,1.4,2.1,6.51
+412932,162,Myron,Boadu,Myron Boadu,Attack,Centre-Forward,21,10000000,AS Monaco,ligue-1,3(9),290.0,3,-,0.6,0.3,0.1,0.3,0.4,0.6,1.4,6.29
+108725,703,Chris,Wood,Chris Wood,Attack,Centre-Forward,31,10000000,Nottingham Forest,premier-league,4(14),440.0,2,-,0.5,0.2,0.1,0.2,0.2,0.3,0.7,6.29
+119150,180,Mislav,Orsic,Mislav Orsic,Attack,Left Winger,30,10000000,Southampton FC,premier-league,0(1),6.0,-,-,-,-,-,-,1,-,-,6.12
+270541,79,Serhou,Guirassy,Serhou Guirassy,Attack,Centre-Forward,26,10000000,VfB Stuttgart,bundesliga,20(2),1653.0,11,-,2.2,0.9,0.6,2.0,0.5,0.9,2.4,6.76
+167721,331,Chimy,Ávila,Chimy Ávila,Attack,Centre-Forward,28,10000000,CA Osasuna,laliga,23(6),1724.0,8,2,2.3,0.6,0.6,1.2,0.5,0.6,1.3,6.59
+148368,5,Divock,Origi,Divock Origi,Attack,Centre-Forward,27,10000000,AC Milan,serie-a,10(17),1015.0,2,1,1.1,0.4,0.6,0.6,0.2,0.9,1.4,6.32
+407098,82,Jakub,Kaminski,Jakub Kaminski,Attack,Left Winger,20,10000000,VfL Wolfsburg,bundesliga,25(6),2074.0,4,2,1.3,0.9,0.9,0.4,0.1,1.0,1.8,6.7
+75489,86,Niclas,Füllkrug,Niclas Füllkrug,Attack,Centre-Forward,29,10000000,SV Werder Bremen,bundesliga,28,2479.0,16,5,2.8,1.2,1.1,1.7,1,1.8,2.6,7.38
+191891,506,Arkadiusz,Milik,Arkadiusz Milik,Attack,Centre-Forward,28,10000000,Juventus FC,serie-a,17(10),1583.0,7,1,1.6,0.6,0.4,1.1,0.3,0.6,1.9,6.69
+46580,533,Andrej,Kramaric,Andrej Kramaric,Attack,Centre-Forward,31,9000000,TSG 1899 Hoffenheim,bundesliga,26(6),2394.0,12,3,2,1.1,0.9,1.1,0.3,1,1.9,6.65
+274862,995,Moses,Simon,Moses Simon,Attack,Left Winger,27,9000000,FC Nantes,ligue-1,28(6),2359.0,5,4,1,1.2,1,0.9,0.1,1.1,1.4,6.55
+472249,3,Jan,Thielmann,Jan Thielmann,Attack,Right Winger,20,9000000,1.FC Köln,bundesliga,6(17),858.0,2,2,0.6,0.4,0.8,0.8,0.4,0.5,1.7,6.48
+518644,3302,Largie,Ramazani,Largie Ramazani,Attack,Left Winger,21,9000000,UD Almería,laliga,13(20),1395.0,3,1,1.2,0.4,1.0,0.5,0.4,0.7,1.2,6.32
+335457,167,Ermedin,Demirovic,Ermedin Demirovic,Attack,Centre-Forward,24,9000000,FC Augsburg,bundesliga,30,2383.0,8,4,2.1,1,0.6,1,0.4,1.1,1.8,6.76
+420002,873,Jean-Philippe,Mateta,Jean-Philippe Mateta,Attack,Centre-Forward,25,9000000,Crystal Palace,premier-league,6(23),754.0,2,-,0.9,0.2,0.1,0.3,0.3,0.6,0.9,6.17
+229006,3911,Franck,Honorat,Franck Honorat,Attack,Right Winger,26,9000000,Stade Brestois 29,ligue-1,29(4),2546.0,6,5,1.4,2.7,0.5,0.5,0.3,0.6,1.7,7.0
+41384,1025,Marko,Arnautovic,Marko Arnautovic,Attack,Centre-Forward,33,9000000,Bologna FC 1909,serie-a,18(3),1540.0,10,-,1.5,1,0.6,1,0.5,0.9,2,6.7
+386455,430,Riccardo,Sottil,Riccardo Sottil,Attack,Left Winger,23,9000000,ACF Fiorentina,serie-a,9(9),834.0,-,2,1.2,0.8,0.7,1.5,0.3,0.7,1.6,6.39
+104124,379,Michail,Antonio,Michail Antonio,Attack,Centre-Forward,32,9000000,West Ham United,premier-league,21(12),1837.0,5,3,1.2,0.5,0.8,1.3,0.4,1.4,2.3,6.49
+298976,3709,Borja,Mayoral,Borja Mayoral,Attack,Centre-Forward,25,9000000,Getafe CF,laliga,33(2),2775.0,8,2,1.5,0.6,0.8,1.1,0.3,1.5,1.8,6.5
+348791,1421,Junya,Ito,Junya Ito,Attack,Right Winger,29,9000000,Stade Reims,ligue-1,34(1),2930.0,6,5,1.2,1.9,1.8,1.2,0.9,1.3,2.5,6.89
+424784,3302,Luis,Suárez,Luis Suárez,Attack,Centre-Forward,25,9000000,UD Almería,laliga,18(3),1498.0,4,4,2,0.6,0.9,1.0,0.2,1.2,2.0,6.69
+146752,2919,Gianluca,Caprari,Gianluca Caprari,Attack,Second Striker,29,9000000,AC Monza,serie-a,32(5),2466.0,5,2,1.4,0.8,1.1,1.4,0.2,0.9,2.1,6.5
+812625,6574,Agustín,Álvarez,Agustín Álvarez,Attack,Centre-Forward,21,8500000,US Sassuolo,serie-a,1(21),351.0,1,1,0.6,0.1,0.3,0.2,0.1,0.5,0.7,6.18
+457673,1005,Gabriel,Strefezza,Gabriel Strefezza,Attack,Right Winger,25,8500000,US Lecce,serie-a,30(5),2464.0,8,4,2,1.4,1,2,-,2,2.3,6.77
+504849,1237,Kaoru,Mitoma,Kaoru Mitoma,Attack,Left Winger,25,8500000,Brighton & Hove Albion,premier-league,24(9),2318.0,7,5,1.6,1.2,1.8,0.8,0.2,1,1.8,7.0
+822458,1158,Bamba,Dieng,Bamba Dieng,Attack,Centre-Forward,22,8000000,FC Lorient,ligue-1,1(9),188.0,1,-,1.1,0.2,0.2,0.6,0.1,0.4,0.7,6.37
+175449,331,Moi,Gómez,Moi Gómez,Attack,Left Winger,28,8000000,CA Osasuna,laliga,28(5),2458.0,3,2,0.6,1.6,0.8,0.8,-,0.5,1,6.71
+724520,331,Abde,Ezzalzouli,Abde Ezzalzouli,Attack,Left Winger,21,8000000,CA Osasuna,laliga,19(9),1516.0,4,2,1.4,0.4,2.1,1.2,0.1,1.4,2.3,6.65
+67063,1237,Danny,Welbeck,Danny Welbeck,Attack,Centre-Forward,32,8000000,Brighton & Hove Albion,premier-league,21(10),1859.0,6,3,2,1,0.7,0.6,0.2,0.7,1.9,6.76
+340328,969,Stephy,Mavididi,Stephy Mavididi,Attack,Left Winger,24,8000000,Montpellier HSC,ligue-1,14(12),1285.0,4,2,1.4,0.5,1.2,0.7,0.1,1.2,1.5,6.54
+533662,405,Cameron,Archer,Cameron Archer,Attack,Centre-Forward,21,8000000,Aston Villa,premier-league,0(6),44.0,-,-,-,-,0.2,0.2,0.2,0.5,0.3,5.99
+400485,1082,Adam,Ounas,Adam Ounas,Attack,Right Winger,26,8000000,LOSC Lille,ligue-1,0(2),13.0,-,-,0.5,-,1.0,-,-,-,-,6.35
+334222,1531,Lucas,Boyé,Lucas Boyé,Attack,Centre-Forward,26,8000000,Elche CF,laliga,29(6),2475.0,7,2,2.1,0.8,2.2,1.3,0.4,2.4,4.0,6.79
+195171,1049,Samu,Castillejo,Samu Castillejo,Attack,Right Winger,27,8000000,Valencia CF,laliga,17(8),1371.0,4,-,1.5,1.2,0.9,1.6,0.3,1.1,1.7,6.57
+503980,399,Joe,Gelhardt,Joe Gelhardt,Attack,Centre-Forward,20,8000000,Leeds United,premier-league,1(14),202.0,-,2,0.7,0.1,0.1,0.5,-,0.5,0.6,6.16
+640109,749,Martín,Satriano,Martín Satriano,Attack,Centre-Forward,21,8000000,FC Empoli,serie-a,20(11),1709.0,2,1,1.2,0.5,0.6,0.9,0.2,1.5,1.7,6.33
+120205,60,Michael,Gregoritsch,Michael Gregoritsch,Attack,Centre-Forward,28,8000000,SC Freiburg,bundesliga,27(3),2173.0,10,4,2.2,0.8,0.4,1.4,0.4,0.7,1.7,7.11
+533295,82,Patrick,Wimmer,Patrick Wimmer,Attack,Right Winger,21,8000000,VfL Wolfsburg,bundesliga,23(3),1665.0,4,8,1.2,1.4,1,1.2,0.3,1.2,1.9,6.99
+461617,12321,Rodrigo,Riquelme,Rodrigo Riquelme,Attack,Left Winger,22,7500000,Girona FC,laliga,25(9),2188.0,4,4,1.6,1.0,1.7,1.1,0.1,0.9,1.8,6.63
+368482,1025,Riccardo,Orsolini,Riccardo Orsolini,Attack,Right Winger,25,7500000,Bologna FC 1909,serie-a,22(10),2122.0,11,4,2.9,1.4,1.1,1.3,0.6,1.1,2.2,6.77
+362086,367,Isi,Palazón,Isi Palazón,Attack,Right Winger,28,7500000,Rayo Vallecano,laliga,36(1),2990.0,9,5,2.5,1.8,1.4,2.8,0.2,1.8,2.1,7.05
+500067,44,Chidera,Ejuke,Chidera Ejuke,Attack,Left Winger,24,7500000,Hertha BSC,bundesliga,9(11),885.0,-,3,1.2,0.5,2.4,0.5,0.1,1,1.6,6.58
+50202,418,Eden,Hazard,Eden Hazard,Attack,Left Winger,31,7500000,Real Madrid,laliga,2(4),194.0,-,1,0.5,1.2,0.3,1.5,-,0.3,1.5,6.27
+293169,430,Josip,Brekalo,Josip Brekalo,Attack,Left Winger,24,7500000,ACF Fiorentina,serie-a,1(5),228.0,-,-,0.8,1.3,1.0,0.8,-,1,1.2,6.49
+408471,714,Javi,Puado,Javi Puado,Attack,Left Winger,24,7000000,RCD Espanyol Barcelona,laliga,25(12),2350.0,7,2,1.5,0.7,0.6,0.7,0.1,0.8,1.9,6.51
+72047,940,Iago,Aspas,Iago Aspas,Attack,Centre-Forward,35,7000000,Celta de Vigo,laliga,31(6),2868.0,12,3,2.1,2.2,0.6,1.6,0.3,1.2,1.4,6.91
+616344,79,Tiago,Tomás,Tiago Tomás,Attack,Centre-Forward,20,7000000,VfB Stuttgart,bundesliga,16(11),1295.0,3,3,1.3,0.7,0.7,1.8,0.1,0.9,1.6,6.49
+340325,11,Reiss,Nelson,Reiss Nelson,Attack,Right Winger,23,7000000,Arsenal FC,premier-league,0(11),204.0,3,2,1.1,0.8,0.6,0.4,-,0.8,0.3,6.68
+505674,367,Sergio,Camello,Sergio Camello,Attack,Centre-Forward,21,7000000,Rayo Vallecano,laliga,27(11),2412.0,6,5,2,0.7,0.5,0.5,0.3,0.9,1.9,6.54
+573775,1049,Hugo,Duro,Hugo Duro,Attack,Centre-Forward,23,7000000,Valencia CF,laliga,12(18),1375.0,1,1,1.1,0.4,0.1,1.2,0.1,0.6,1,6.19
+267160,826,Adam,Buksa,Adam Buksa,Attack,Centre-Forward,26,7000000,RC Lens,ligue-1,0(8),94.0,-,-,-,0.1,-,0.1,-,0.3,0.9,5.98
+234523,416,Antonio,Sanabria,Antonio Sanabria,Attack,Centre-Forward,26,7000000,Torino FC,serie-a,28(5),2442.0,12,4,2.1,0.8,0.7,0.8,0.4,0.9,2.5,6.82
+629588,18,Nathan,Ngoumou,Nathan Ngoumou,Attack,Right Winger,22,7000000,Borussia Mönchengladbach,bundesliga,7(13),692.0,1,-,0.7,0.2,0.4,0.3,0.2,0.2,0.9,6.23
+776798,1420,Abdallah,Sima,Abdallah Sima,Attack,Right Winger,21,7000000,Angers SCO,ligue-1,19(15),1833.0,5,1,1.1,0.5,0.6,0.7,0.4,0.9,1.8,6.38
+680806,180,Samuel,Edozie,Samuel Edozie,Attack,Left Winger,19,7000000,Southampton FC,premier-league,5(12),559.0,-,-,0.5,0.5,0.7,1.3,0.1,0.7,1.4,6.31
+358166,3522,Eldor,Shomurodov,Eldor Shomurodov,Attack,Centre-Forward,27,7000000,Spezia Calcio,serie-a,1(5),115.0,-,-,1,-,0.2,0.3,0.3,0.8,0.7,6.09
+618350,167,Dion,Beljo,Dion Beljo,Attack,Centre-Forward,20,6500000,FC Augsburg,bundesliga,16(2),1140.0,3,2,0.7,0.8,0.4,0.6,0.4,1.3,1.8,6.57
+345886,167,Rubén,Vargas,Rubén Vargas,Attack,Left Winger,24,6000000,FC Augsburg,bundesliga,13(10),1137.0,3,4,0.9,0.7,0.9,0.7,0.1,0.4,1.3,6.57
+343463,366,Cyle,Larin,Cyle Larin,Attack,Centre-Forward,27,6000000,Real Valladolid CF,laliga,16(3),1471.0,8,3,2.7,0.8,0.5,1.3,1.5,1.9,3.4,6.71
+445939,82,Omar,Marmoush,Omar Marmoush,Attack,Centre-Forward,23,6000000,VfL Wolfsburg,bundesliga,15(18),1480.0,5,1,1.5,0.3,1.2,1,0.4,1.3,2.3,6.51
+317806,2239,Cyriel,Dessers,Cyriel Dessers,Attack,Centre-Forward,28,6000000,US Cremonese,serie-a,19(7),1595.0,6,2,1.9,0.9,0.5,0.5,0.9,0.8,2.3,6.38
+616369,681,Ander,Barrenetxea,Ander Barrenetxea,Attack,Left Winger,21,6000000,Real Sociedad,laliga,9(14),874.0,3,1,0.8,0.4,1.5,0.6,-,0.8,1.6,6.64
+339314,1237,Deniz,Undav,Deniz Undav,Attack,Centre-Forward,26,6000000,Brighton & Hove Albion,premier-league,6(16),623.0,5,-,1.2,0.4,0.2,0.2,0.3,0.4,0.6,6.34
+449151,5,Junior,Messias,Junior Messias,Attack,Right Winger,31,6000000,AC Milan,serie-a,19(6),1511.0,5,2,1.3,0.6,1.4,1.0,-,0.6,1.3,6.82
+213260,331,Rubén,García,Rubén García,Attack,Left Winger,29,6000000,CA Osasuna,laliga,11(18),1152.0,2,2,0.7,0.9,0.2,0.6,-,0.3,0.9,6.44
+649317,405,Jhon,Durán,Jhon Durán,Attack,Centre-Forward,19,6000000,Aston Villa,premier-league,0(12),127.0,-,-,0.6,0.1,0.1,0.3,0.3,0.3,0.7,6.09
+238639,3911,Steve,Mounié,Steve Mounié,Attack,Centre-Forward,28,6000000,Stade Brestois 29,ligue-1,20(3),1662.0,6,-,2.6,0.6,0.4,1.1,0.4,1.2,2.3,7.07
+570421,714,Nico,Melamed,Nico Melamed,Attack,Left Winger,21,6000000,RCD Espanyol Barcelona,laliga,16(16),1251.0,1,2,1,0.8,0.6,1,0.1,0.8,1.1,6.36
+279009,44,Marco,Richter,Marco Richter,Attack,Right Winger,25,6000000,Hertha BSC,bundesliga,21(8),1844.0,6,5,1.7,0.7,1.2,1.1,0.2,1.2,2,6.7
+108354,873,Jordan,Ayew,Jordan Ayew,Attack,Centre-Forward,31,6000000,Crystal Palace,premier-league,31(7),2721.0,4,3,0.8,0.8,1.7,2.4,0.1,2.2,2.8,6.8
+325223,1095,Mama,Baldé,Mama Baldé,Attack,Centre-Forward,27,6000000,ESTAC Troyes,ligue-1,30(4),2672.0,12,3,2.2,0.6,1.6,1.4,0.6,2,3.6,6.73
+246968,150,Ayoze,Pérez,Ayoze Pérez,Attack,Left Winger,29,6000000,Real Betis Balompié,laliga,17(2),1395.0,3,1,1.8,0.7,2.2,1.5,0.1,1.4,2.1,6.87
+257062,367,Álvaro,García,Álvaro García,Attack,Left Winger,30,6000000,Rayo Vallecano,laliga,34(1),2890.0,5,5,1.5,1.4,0.6,0.9,0.3,0.5,1.5,6.82
+109256,940,Haris,Seferovic,Haris Seferovic,Attack,Centre-Forward,30,6000000,Celta de Vigo,laliga,10(8),889.0,3,1,0.7,0.3,0.4,0.4,0.8,0.4,0.8,6.44
+46413,331,Ante,Budimir,Ante Budimir,Attack,Centre-Forward,31,6000000,CA Osasuna,laliga,22(9),1811.0,8,-,1.9,0.3,0.5,0.7,0.4,0.9,2.0,6.7
+872380,2239,Felix,Afena-Gyan,Felix Afena-Gyan,Attack,Centre-Forward,19,5500000,US Cremonese,serie-a,7(16),812.0,-,-,0.9,0.1,0.3,0.5,0.3,0.9,1.5,6.04
+347253,2919,Dany,Mota,Dany Mota,Attack,Centre-Forward,24,5500000,AC Monza,serie-a,21(8),1925.0,5,1,1,0.9,1.2,1.1,0.4,1.2,2.6,6.64
+193782,24,Lucas,Alario,Lucas Alario,Attack,Centre-Forward,30,5500000,Eintracht Frankfurt,bundesliga,2(18),317.0,1,-,0.6,0.1,0.3,0.1,0.3,0.4,0.2,6.19
+95732,714,Martin,Braithwaite,Martin Braithwaite,Attack,Centre-Forward,31,5000000,RCD Espanyol Barcelona,laliga,29(2),2468.0,10,2,1.9,0.4,0.5,1.4,0.4,0.6,1.7,6.56
+248999,60,Lucas,Höler,Lucas Höler,Attack,Centre-Forward,28,5000000,SC Freiburg,bundesliga,16(10),1508.0,5,2,1.2,0.5,0.4,1.4,0.3,0.5,1.1,6.84
+743498,1095,Wilson,Odobert,Wilson Odobert,Attack,Right Winger,18,5000000,ESTAC Troyes,ligue-1,19(13),1767.0,4,2,0.8,0.7,1,0.5,0.1,0.8,1.5,6.43
+684210,989,Jaidon,Anthony,Jaidon Anthony,Attack,Left Winger,23,5000000,AFC Bournemouth,premier-league,11(19),1248.0,3,1,0.7,0.4,0.5,0.4,0.2,0.9,0.8,6.35
+125103,86,Marvin,Ducksch,Marvin Ducksch,Attack,Centre-Forward,28,5000000,SV Werder Bremen,bundesliga,34,2867.0,12,6,2.8,1.5,0.4,0.5,0.4,0.5,1.9,7.0
+384060,237,Tino,Kadewere,Tino Kadewere,Attack,Centre-Forward,26,5000000,RCD Mallorca,laliga,5(10),540.0,1,-,1.3,0.2,0.5,0.2,0.3,0.7,1,6.38
+500689,995,Evann,Guessand,Evann Guessand,Attack,Centre-Forward,21,5000000,FC Nantes,ligue-1,15(15),1257.0,3,2,0.7,0.4,1.2,0.7,0.2,1.0,1.6,6.5
+557614,167,Nathanaël,Mbuku,Nathanaël Mbuku,Attack,Left Winger,20,5000000,FC Augsburg,bundesliga,0(2),32.0,-,-,-,-,-,-,-,0.5,1,6.04
+48280,1049,Edinson,Cavani,Edinson Cavani,Attack,Centre-Forward,35,5000000,Valencia CF,laliga,20(5),1463.0,5,2,1.4,0.5,0.2,0.3,0.6,0.4,1.2,6.42
+592735,366,Gonzalo,Plata,Gonzalo Plata,Attack,Right Winger,22,5000000,Real Valladolid CF,laliga,26(8),2310.0,1,5,1.1,1.1,1.9,1.2,0.1,1.1,2.0,6.75
+496857,1082,Edon,Zhegrova,Edon Zhegrova,Attack,Right Winger,23,5000000,LOSC Lille,ligue-1,11(11),1056.0,3,4,1.9,1.4,2.4,0.7,0.1,0.8,1.5,7.08
+241527,380,Federico,Bonazzoli,Federico Bonazzoli,Attack,Centre-Forward,25,5000000,US Salernitana 1919,serie-a,12(12),1119.0,2,1,1.3,0.3,0.5,1.3,0.3,0.5,1.8,6.27
+550106,398,Matteo,Cancellieri,Matteo Cancellieri,Attack,Right Winger,20,5000000,SS Lazio,serie-a,1(19),237.0,-,-,0.3,0.2,0.2,0.5,0.3,0.2,0.7,6.12
+819215,16,Julien,Duranville,Julien Duranville,Attack,Right Winger,16,5000000,Borussia Dortmund,bundesliga,0(1),28.0,-,-,1.0,2.0,3,1.0,-,-,1.0,7.2
+811779,985,Alejandro,Garnacho,Alejandro Garnacho,Attack,Left Winger,18,5000000,Manchester United,premier-league,5(14),563.0,3,2,1.3,0.2,0.6,0.4,0.2,0.7,1.4,6.35
+282722,1531,Álex,Collado,Álex Collado,Attack,Right Winger,23,5000000,Elche CF,laliga,8(7),725.0,1,1,1.1,1.3,1,0.7,0.1,0.6,1.1,6.62
+364133,416,Pietro,Pellegri,Pietro Pellegri,Attack,Centre-Forward,21,5000000,Torino FC,serie-a,4(14),460.0,2,-,0.6,0.3,0.2,0.8,0.4,1.1,1.3,6.2
+412513,276,Thomas,Henry,Thomas Henry,Attack,Centre-Forward,28,4500000,Hellas Verona,serie-a,13(3),1038.0,2,-,1.1,0.8,0.2,1,0.6,1.6,3.3,6.38
+40433,244,Alexis,Sánchez,Alexis Sánchez,Attack,Centre-Forward,34,4500000,Olympique Marseille,ligue-1,32(3),2699.0,14,3,1.9,1.6,1.2,1.3,0.8,1.8,2.4,7.04
+394346,749,Emanuel,Vignato,Emanuel Vignato,Attack,Right Winger,22,4500000,FC Empoli,serie-a,2(6),239.0,-,1,0.1,0.4,0.1,0.1,-,0.5,0.3,6.19
+518505,89,Jamie,Leweling,Jamie Leweling,Attack,Second Striker,21,4500000,1.FC Union Berlin,bundesliga,0(16),248.0,1,1,0.6,0.2,0.3,0.6,0.1,0.5,0.9,6.21
+196095,82,Luca,Waldschmidt,Luca Waldschmidt,Attack,Second Striker,26,4500000,VfL Wolfsburg,bundesliga,4(14),515.0,4,-,0.6,0.1,0.1,0.2,0.1,0.2,0.7,6.21
+190289,80,Gerrit,Holtmann,Gerrit Holtmann,Attack,Left Winger,27,4500000,VfL Bochum,bundesliga,8(15),934.0,1,1,1.3,0.4,0.7,0.3,0.1,0.7,1.3,6.33
+147043,33,Michael,Frey,Michael Frey,Attack,Centre-Forward,28,4500000,FC Schalke 04,bundesliga,10(5),875.0,-,3,1.8,0.7,0.3,0.7,0.5,0.8,2.7,6.43
+413605,2239,David,Okereke,David Okereke,Attack,Centre-Forward,25,4300000,US Cremonese,serie-a,25(8),2277.0,7,-,1.8,0.6,1.2,1,0.3,1.1,1.9,6.6
+82442,5,Olivier,Giroud,Olivier Giroud,Attack,Centre-Forward,36,4000000,AC Milan,serie-a,25(8),2148.0,13,5,2.4,0.7,0.2,0.7,0.5,0.5,1.9,6.88
+295331,410,Isaac,Success,Isaac Success,Attack,Centre-Forward,26,4000000,Udinese Calcio,serie-a,21(9),1821.0,1,6,1.2,1,1,2.6,0.4,1.5,3.2,6.54
+490223,1158,Ibrahima,Koné,Ibrahima Koné,Attack,Centre-Forward,23,4000000,FC Lorient,ligue-1,15(22),1569.0,7,1,0.8,0.4,0.4,0.6,0.4,0.7,1.8,6.46
+654415,1082,Alan,Virginius,Alan Virginius,Attack,Left Winger,19,4000000,LOSC Lille,ligue-1,1(14),248.0,1,-,0.8,0.1,-,0.1,0.1,0.4,0.5,6.08
+543051,417,Billal,Brahimi,Billal Brahimi,Attack,Left Winger,22,4000000,OGC Nice,ligue-1,5(21),786.0,3,2,0.8,0.7,0.7,0.3,0.2,0.5,1,6.39
+531949,995,Ignatius,Ganago,Ignatius Ganago,Attack,Centre-Forward,23,4000000,FC Nantes,ligue-1,0(4),58.0,-,-,0.3,-,-,-,0.3,0.5,0.5,5.98
+174694,1095,Rony,Lopes,Rony Lopes,Attack,Right Winger,27,4000000,ESTAC Troyes,ligue-1,29(3),2360.0,7,5,1.8,1.6,1.4,1.0,-,1.2,1.4,6.87
+282810,940,Carles,Pérez,Carles Pérez,Attack,Right Winger,24,4000000,Celta de Vigo,laliga,23(12),2150.0,3,5,1.5,0.7,1.3,1.1,0.3,0.8,1.6,6.6
+296783,1531,Ezequiel,Ponce,Ezequiel Ponce,Attack,Centre-Forward,25,4000000,Elche CF,laliga,8(26),1115.0,4,-,0.9,0.3,0.1,0.3,0.2,0.9,0.9,6.19
+668951,506,Matías,Soulé,Matías Soulé,Attack,Right Winger,19,4000000,Juventus FC,serie-a,4(9),415.0,1,-,0.8,0.7,0.9,0.4,-,0.5,0.8,6.5
+216464,681,Carlos,Fernández,Carlos Fernández,Attack,Centre-Forward,26,4000000,Real Sociedad,laliga,8(16),626.0,1,-,0.9,0.3,0.5,0.6,0.4,0.5,0.8,6.25
+354726,826,Florian,Sotoca,Florian Sotoca,Attack,Centre-Forward,32,4000000,RC Lens,ligue-1,34(4),3064.0,7,9,2.3,1.6,0.4,1.2,0.2,0.7,1.2,7.13
+395523,44,Wilfried,Kanga,Wilfried Kanga,Attack,Centre-Forward,24,4000000,Hertha BSC,bundesliga,15(8),1421.0,2,-,1.1,0.9,0.3,0.5,0.5,0.8,1.7,6.42
+339943,1095,Iké,Ugbo,Iké Ugbo,Attack,Centre-Forward,24,4000000,ESTAC Troyes,ligue-1,9(16),889.0,2,1,0.6,0.1,0.2,0.4,0.2,0.3,0.7,6.2
+280701,2687,Théo,Bongonda,Théo Bongonda,Attack,Right Winger,27,4000000,Cádiz CF,laliga,24(7),1951.0,4,3,1.4,0.6,1.3,1.2,0.2,0.8,1.8,6.59
+275590,989,Kieffer,Moore,Kieffer Moore,Attack,Centre-Forward,30,4000000,AFC Bournemouth,premier-league,12(15),1278.0,4,-,0.9,0.2,0.1,1.1,-,1.1,1.6,6.35
+245744,80,Takuma,Asano,Takuma Asano,Attack,Right Winger,28,4000000,VfL Bochum,bundesliga,21(4),1730.0,3,2,2.1,0.9,0.5,1,0.3,1.2,2.5,6.42
+324811,969,Arnaud,Nordin,Arnaud Nordin,Attack,Right Winger,24,4000000,Montpellier HSC,ligue-1,30(6),2419.0,9,3,1.6,0.6,1.1,2.3,0.1,1.2,1.7,6.76
+197838,1003,Jamie,Vardy,Jamie Vardy,Attack,Centre-Forward,35,4000000,Leicester City,premier-league,19(18),1855.0,3,4,0.8,0.4,0.3,0.2,0.8,0.4,0.9,6.33
+211251,366,Darwin,Machís,Darwin Machís,Attack,Left Winger,29,4000000,Real Valladolid CF,laliga,7(4),599.0,-,1,1.7,0.8,1.0,1.1,0.2,0.5,1.9,6.5
+855015,415,Farès,Chaïbi,Farès Chaïbi,Attack,Left Winger,20,4000000,FC Toulouse,ligue-1,24(12),2345.0,5,5,1.8,0.8,0.3,0.6,0.2,0.7,1.5,6.7
+28396,46,Edin,Dzeko,Edin Dzeko,Attack,Centre-Forward,36,4000000,Inter Milan,serie-a,18(15),1729.0,9,3,2.2,0.7,0.3,0.7,0.3,0.5,1.5,6.75
+272278,79,Chris,Führich,Chris Führich,Attack,Second Striker,24,4000000,VfB Stuttgart,bundesliga,21(12),1892.0,5,2,1.3,0.7,1.5,0.3,0.1,0.9,1.1,6.65
+245078,416,Nemanja,Radonjic,Nemanja Radonjic,Attack,Left Winger,26,4000000,Torino FC,serie-a,16(12),1458.0,2,2,1.9,0.6,1.8,0.6,0.4,1.2,1.9,6.49
+50512,16,Anthony,Modeste,Anthony Modeste,Attack,Centre-Forward,34,4000000,Borussia Dortmund,bundesliga,7(12),807.0,2,1,1.2,0.4,-,0.4,0.3,0.5,0.9,6.44
+256361,3522,Daniele,Verde,Daniele Verde,Attack,Right Winger,26,4000000,Spezia Calcio,serie-a,11(14),997.0,3,-,1.3,0.7,0.2,0.6,0.1,0.5,0.7,6.33
+111422,931,Neeskens,Kebano,Neeskens Kebano,Attack,Left Winger,30,4000000,Fulham FC,premier-league,9(8),766.0,-,3,0.5,0.8,0.6,0.9,0.1,0.7,0.9,6.41
+399543,1005,Rémi,Oudin,Rémi Oudin,Attack,Right Winger,26,4000000,US Lecce,serie-a,12(19),1315.0,3,-,1.2,1.0,0.3,0.5,0.1,0.4,0.7,6.58
+321070,18,Hannes,Wolf,Hannes Wolf,Attack,Left Winger,23,4000000,Borussia Mönchengladbach,bundesliga,4(14),441.0,1,1,0.4,0.3,0.3,0.7,0.1,0.7,0.4,6.25
+106270,3,Florian,Kainz,Florian Kainz,Attack,Left Winger,30,4000000,1.FC Köln,bundesliga,31(1),2372.0,6,10,1.7,2.2,1,1.3,-,1.1,1.2,7.06
+281319,3911,Alberth,Elis,Alberth Elis,Attack,Right Winger,26,4000000,Stade Brestois 29,ligue-1,2(8),253.0,-,-,0.4,0.3,0.2,0.5,0.1,0.5,0.4,6.04
+474701,399,Crysencio,Summerville,Crysencio Summerville,Attack,Right Winger,21,4000000,Leeds United,premier-league,12(16),1418.0,4,2,1,0.6,0.9,1.5,0.3,1.3,1.6,6.46
+433584,6195,Alessio,Zerbin,Alessio Zerbin,Attack,Left Winger,23,4000000,SSC Napoli,serie-a,2(8),193.0,-,-,0.5,-,0.2,0.6,0.1,0.5,0.5,6.21
+222876,1421,Arbër,Zeneli,Arbër Zeneli,Attack,Left Winger,27,4000000,Stade Reims,ligue-1,12(11),1003.0,-,2,1.3,1,0.7,0.5,0.1,1,2,6.39
+418559,380,Erik,Botheim,Erik Botheim,Attack,Centre-Forward,22,3800000,US Salernitana 1919,serie-a,9(19),858.0,1,3,0.3,0.3,0.1,0.4,0.1,0.4,0.7,6.19
+487843,1005,Lorenzo,Colombo,Lorenzo Colombo,Attack,Centre-Forward,20,3500000,US Lecce,serie-a,18(15),1518.0,5,2,1.4,0.5,0.3,0.5,0.2,1.2,2.4,6.3
+269878,39,Marcus,Ingvartsen,Marcus Ingvartsen,Attack,Centre-Forward,26,3500000,1.FSV Mainz 05,bundesliga,16(12),1318.0,10,-,1.3,0.2,0.4,0.8,0.3,0.7,1.9,6.42
+296879,3,Steffen,Tigges,Steffen Tigges,Attack,Centre-Forward,24,3500000,1.FC Köln,bundesliga,17(13),1598.0,6,1,1.2,0.6,0.3,0.4,0.3,0.7,1.1,6.59
+354814,3522,M'Bala,Nzola,M'Bala Nzola,Attack,Centre-Forward,26,3500000,Spezia Calcio,serie-a,29(2),2654.0,13,2,2,0.9,1,1.3,0.3,2.2,4,6.64
+44779,543,Diego,Costa,Diego Costa,Attack,Centre-Forward,34,3500000,Wolverhampton Wanderers,premier-league,16(7),1248.0,1,-,1.2,0.5,0.2,0.4,0.7,1.1,1.0,6.24
+335103,3,Linton,Maina,Linton Maina,Attack,Right Winger,23,3500000,1.FC Köln,bundesliga,27(6),2258.0,3,7,1.1,1.1,0.7,0.6,0.5,0.8,1.7,6.49
+589737,167,Kelvin,Yeboah,Kelvin Yeboah,Attack,Centre-Forward,22,3500000,FC Augsburg,bundesliga,3(10),347.0,1,1,1.0,0.4,1.2,0.8,0.1,0.8,1.1,6.45
+393238,415,Zakaria,Aboukhlal,Zakaria Aboukhlal,Attack,Right Winger,22,3500000,FC Toulouse,ligue-1,28(9),2480.0,10,5,2.2,0.6,1.1,1.2,0.5,1,2.2,6.7
+748382,1041,Amin,Sarr,Amin Sarr,Attack,Centre-Forward,21,3500000,Olympique Lyon,ligue-1,6(7),537.0,1,1,0.5,0.3,0.3,0.3,0.1,0.4,1.5,6.33
+398402,703,Sam,Surridge,Sam Surridge,Attack,Centre-Forward,24,3500000,Nottingham Forest,premier-league,1(19),308.0,1,-,0.5,0.1,0.1,0.5,0.2,0.2,0.7,6.09
+419648,415,Veljko,Birmancevic,Veljko Birmancevic,Attack,Left Winger,24,3500000,FC Toulouse,ligue-1,2(23),427.0,-,-,0.5,0.1,0.2,0.3,-,0.1,0.5,6.11
+432092,749,Roberto,Piccoli,Roberto Piccoli,Attack,Centre-Forward,21,3500000,FC Empoli,serie-a,2(5),189.0,-,-,0.6,0.1,0.1,0.4,0.6,0.6,1.0,6.11
+203507,1420,Adrien,Hunou,Adrien Hunou,Attack,Centre-Forward,28,3500000,Angers SCO,ligue-1,28(6),2248.0,4,1,1.3,0.5,0.4,1.3,0.1,0.7,1.7,6.37
+119234,39,Karim,Onisiwo,Karim Onisiwo,Attack,Centre-Forward,30,3500000,1.FSV Mainz 05,bundesliga,28(3),2549.0,10,2,2.2,1.1,1.2,1.1,0.7,1.6,3.6,6.82
+490417,1420,Ibrahima,Niane,Ibrahima Niane,Attack,Centre-Forward,23,3500000,Angers SCO,ligue-1,15(1),1147.0,2,-,1.6,0.5,0.5,1.7,0.1,1.3,2.3,6.38
+431811,12,Ola,Solbakken,Ola Solbakken,Attack,Right Winger,24,3500000,AS Roma,serie-a,7(7),504.0,1,2,0.6,0.8,0.4,0.5,-,0.9,1.1,6.32
+238185,415,Rhys,Healey,Rhys Healey,Attack,Centre-Forward,28,3000000,FC Toulouse,ligue-1,0(4),61.0,2,-,1.3,0.5,-,-,-,0.5,0.8,6.58
+205940,749,Marko,Pjaca,Marko Pjaca,Attack,Left Winger,27,3000000,FC Empoli,serie-a,5(12),518.0,-,-,0.9,0.6,1.4,0.4,0.1,1.1,0.9,6.38
+225593,1531,Pere,Milla,Pere Milla,Attack,Left Winger,30,3000000,Elche CF,laliga,22(10),1875.0,6,1,1.1,0.4,0.5,1.4,0.4,0.7,1.5,6.42
+225020,418,Mariano,Díaz,Mariano Díaz,Attack,Centre-Forward,29,3000000,Real Madrid,laliga,1(8),150.0,-,-,0.6,0.1,-,-,0.1,0.3,0.2,6.04
+324804,416,Yann,Karamoh,Yann Karamoh,Attack,Left Winger,24,3000000,Torino FC,serie-a,7(14),710.0,4,-,1,0.5,1.2,0.6,0.6,0.6,1.6,6.42
+676318,985,Facundo,Pellistri,Facundo Pellistri,Attack,Right Winger,21,3000000,Manchester United,premier-league,0(4),60.0,-,-,-,-,0.5,0.5,-,0.3,0.5,6.18
+512354,873,Malcolm,Ebiowei,Malcolm Ebiowei,Attack,Right Winger,19,3000000,Crystal Palace,premier-league,0(3),32.0,-,-,-,-,0.7,0.3,-,-,1.7,6.04
+455349,621,Jon,Morcillo,Jon Morcillo,Attack,Left Winger,24,3000000,Athletic Bilbao,laliga,0(10),59.0,-,1,0.1,0.4,0.3,0.1,-,0.2,-,6.17
+395242,1421,Alexis,Flips,Alexis Flips,Attack,Left Winger,22,3000000,Stade Reims,ligue-1,28(5),1998.0,4,6,1.6,1.3,0.4,0.7,0.1,0.7,1.8,6.82
+221309,366,Óscar,Plano,Óscar Plano,Attack,Right Winger,31,3000000,Real Valladolid CF,laliga,22(11),2048.0,1,1,0.9,0.5,0.4,1.5,0.2,0.7,1.1,6.51
+103565,969,Wahbi,Khazri,Wahbi Khazri,Attack,Centre-Forward,31,3000000,Montpellier HSC,ligue-1,20(7),1644.0,4,1,1.4,0.7,1,1.3,0.5,1.1,1.8,6.61
+112935,3,Mark,Uth,Mark Uth,Attack,Centre-Forward,31,3000000,1.FC Köln,bundesliga,1(3),45.0,-,-,0.3,-,0.3,0.3,-,-,0.5,6.06
+181547,940,Gonçalo,Paciência,Gonçalo Paciência,Attack,Centre-Forward,28,3000000,Celta de Vigo,laliga,5(20),650.0,2,-,1.2,0.2,0.2,0.7,-,0.6,1.7,6.23
+659543,290,Matthis,Abline,Matthis Abline,Attack,Centre-Forward,19,3000000,AJ Auxerre,ligue-1,0(11),97.0,1,-,0.5,0.2,-,0.5,0.1,0.1,0.9,6.22
+388382,1005,Assan,Ceesay,Assan Ceesay,Attack,Centre-Forward,28,3000000,US Lecce,serie-a,20(14),1818.0,6,-,1.2,0.2,0.6,0.8,0.6,0.7,1.9,6.43
+157501,290,M'Baye,Niang,M'Baye Niang,Attack,Centre-Forward,28,3000000,AJ Auxerre,ligue-1,17(13),1486.0,6,-,1.3,0.3,0.3,1.4,0.3,0.7,2.4,6.31
+551752,416,Demba,Seck,Demba Seck,Attack,Right Winger,21,3000000,Torino FC,serie-a,6(13),516.0,-,-,0.5,0.3,0.8,0.9,0.3,0.7,1.3,6.23
+545538,1005,Lameck,Banda,Lameck Banda,Attack,Left Winger,21,3000000,US Lecce,serie-a,19(17),1637.0,2,1,1.0,0.4,1.3,1,0.3,1.0,1.9,6.36
+583255,989,Antoine,Semenyo,Antoine Semenyo,Attack,Centre-Forward,22,3000000,AFC Bournemouth,premier-league,2(9),251.0,1,-,0.3,0.2,0.3,0.5,0.1,0.5,1.1,6.17
+112343,1038,Manolo,Gabbiadini,Manolo Gabbiadini,Attack,Centre-Forward,31,3000000,UC Sampdoria,serie-a,27(8),2369.0,7,2,2.1,0.8,0.2,1.9,0.4,0.9,1.5,6.56
+428954,1158,Stéphane,Diarra,Stéphane Diarra,Attack,Right Winger,24,3000000,FC Lorient,ligue-1,14(14),1070.0,2,-,0.7,0.4,0.9,0.8,0.1,0.5,1.1,6.46
+234802,1095,Renaud,Ripart,Renaud Ripart,Attack,Right Winger,29,3000000,ESTAC Troyes,ligue-1,15(11),1319.0,4,1,1.5,0.8,0.4,1.0,0.2,0.8,1.2,6.55
+298575,331,Kike,Barja,Kike Barja,Attack,Right Winger,25,3000000,CA Osasuna,laliga,15(12),1316.0,1,6,0.6,1,1.4,0.6,0.3,0.9,1.6,6.61
+538964,415,Thijs,Dallinga,Thijs Dallinga,Attack,Centre-Forward,22,3000000,FC Toulouse,ligue-1,28(8),2363.0,12,1,1.7,0.6,0.3,0.5,0.6,0.5,1.1,6.65
+341110,940,Franco,Cervi,Franco Cervi,Attack,Left Winger,28,3000000,Celta de Vigo,laliga,21(15),1898.0,-,4,0.6,0.8,0.6,1.2,0.1,0.4,0.8,6.57
+386914,1038,Sam,Lammers,Sam Lammers,Attack,Centre-Forward,25,2800000,UC Sampdoria,serie-a,13(6),1103.0,1,1,1.2,0.7,0.7,1.2,0.1,0.9,2.8,6.43
+232463,79,Luca,Pfeiffer,Luca Pfeiffer,Attack,Centre-Forward,26,2800000,VfB Stuttgart,bundesliga,6(13),692.0,-,-,0.6,0.6,0.1,0.5,0.1,0.3,0.7,6.17
+725242,6574,Luca,D'Andrea,Luca D'Andrea,Attack,Right Winger,18,2500000,US Sassuolo,serie-a,5,321.0,-,1,1.4,2,0.8,1.8,0.2,1.4,2.2,6.58
+241076,3522,Emmanuel,Gyasi,Emmanuel Gyasi,Attack,Left Winger,28,2500000,Spezia Calcio,serie-a,35,2838.0,2,-,1,0.6,0.2,1.1,0.7,1.2,2.1,6.25
+212391,2687,Roger,Martí,Roger Martí,Attack,Centre-Forward,31,2500000,Cádiz CF,laliga,8(4),657.0,-,1,0.5,0.8,0.3,0.9,0.3,0.8,2.1,6.11
+456492,24,Faride,Alidou,Faride Alidou,Attack,Left Winger,21,2500000,Eintracht Frankfurt,bundesliga,0(15),173.0,-,1,0.1,0.2,0.1,0.1,0.1,0.3,0.3,6.12
+125614,3,Sargis,Adamyan,Sargis Adamyan,Attack,Centre-Forward,29,2500000,1.FC Köln,bundesliga,4(20),634.0,1,2,0.9,0.3,0.3,0.3,0.2,0.7,1.2,6.26
+182916,826,Wesley,Saïd,Wesley Saïd,Attack,Centre-Forward,27,2500000,RC Lens,ligue-1,6(15),638.0,5,-,1.3,0.3,0.8,-,-,0.3,0.9,6.45
+143891,86,Maximilian,Philipp,Maximilian Philipp,Attack,Second Striker,28,2500000,SV Werder Bremen,bundesliga,1(2),115.0,-,-,0.3,0.3,-,2.3,0.3,0.3,0.3,6.19
+116088,33,Marius,Bülter,Marius Bülter,Attack,Left Winger,29,2500000,FC Schalke 04,bundesliga,30(3),2605.0,11,1,2.1,1.2,1.0,1.5,0.2,0.8,2.5,6.72
+119037,80,Philipp,Hofmann,Philipp Hofmann,Attack,Centre-Forward,29,2500000,VfL Bochum,bundesliga,31(3),2643.0,8,2,1.5,0.8,0.3,1.2,0.5,1.1,1.5,7.0
+488656,290,Siriki,Dembélé,Siriki Dembélé,Attack,Left Winger,26,2500000,AJ Auxerre,ligue-1,0(6),104.0,-,-,0.3,0.7,1,0.3,-,0.8,1.5,6.26
+491648,380,Diego,Valencia,Diego Valencia,Attack,Centre-Forward,22,2500000,US Salernitana 1919,serie-a,0(12),222.0,-,-,0.1,0.2,-,0.5,-,0.3,0.6,6.08
+88683,749,Mattia,Destro,Mattia Destro,Attack,Centre-Forward,31,2500000,FC Empoli,serie-a,6(11),567.0,1,-,1.2,0.2,0.2,0.3,0.4,0.3,0.8,6.14
+289802,415,Rafael,Ratão,Rafael Ratão,Attack,Left Winger,27,2500000,FC Toulouse,ligue-1,25(5),1871.0,5,4,1.0,1.0,1.3,1.1,0.1,1,1.9,6.84
+344892,290,Gauthier,Hein,Gauthier Hein,Attack,Right Winger,26,2500000,AJ Auxerre,ligue-1,23(12),1886.0,2,-,1.1,0.8,0.5,0.4,0.1,0.7,1,6.33
+283528,1038,Ignacio,Pussetto,Ignacio Pussetto,Attack,Right Winger,27,2500000,UC Sampdoria,serie-a,1(4),150.0,-,-,0.4,0.4,0.2,0.2,-,0.2,1.4,6.22
+131951,276,Kevin,Lasagna,Kevin Lasagna,Attack,Centre-Forward,30,2500000,Hellas Verona,serie-a,17(9),1575.0,1,2,2,0.7,0.5,0.8,0.6,1.3,2,6.23
+256429,2687,Sergi,Guardiola,Sergi Guardiola,Attack,Centre-Forward,31,2500000,Cádiz CF,laliga,8(6),508.0,-,-,0.8,0.1,-,0.6,0.3,0.3,1.3,6.16
+282694,940,Augusto,Solari,Augusto Solari,Attack,Right Winger,30,2500000,Celta de Vigo,laliga,4(9),260.0,-,1,0.2,0.3,0.1,0.3,-,0.3,0.2,6.2
+392163,60,Noah,Weißhaupt,Noah Weißhaupt,Attack,Left Winger,21,2500000,SC Freiburg,bundesliga,3(15),419.0,-,1,0.1,0.4,0.4,1.1,0.1,0.2,0.7,6.32
+61087,15,Karim,Bellarabi,Karim Bellarabi,Attack,Right Winger,32,2500000,Bayer 04 Leverkusen,bundesliga,1(7),80.0,-,-,-,-,0.1,-,0.3,0.3,0.1,6.01
+465606,1148,Halil,Dervisoglu,Halil Dervisoglu,Attack,Centre-Forward,23,2500000,Brentford FC,premier-league,0(1),7.0,-,-,1,-,-,-,-,1,-,6.03
+149579,3524,Elbasan,Rashani,Elbasan Rashani,Attack,Left Winger,29,2500000,Clermont Foot 63,ligue-1,26(6),2173.0,3,3,1.1,0.6,0.7,0.9,0.1,0.8,1.5,6.57
+337066,12321,Toni,Villa,Toni Villa,Attack,Left Winger,27,2500000,Girona FC,laliga,1(1),91.0,-,-,-,0.5,0.5,0.5,0.5,0.5,0.5,6.15
+34601,621,Raúl,García,Raúl García,Attack,Centre-Forward,36,2500000,Athletic Bilbao,laliga,6(29),948.0,2,3,1.5,0.2,0.2,0.5,0.2,0.2,0.4,6.34
+342226,167,Irvin,Cardona,Irvin Cardona,Attack,Centre-Forward,25,2500000,FC Augsburg,bundesliga,0(10),310.0,1,-,0.9,0.3,0.4,0.5,0.1,0.4,1.3,6.17
+594505,3522,Raimonds,Krollis,Raimonds Krollis,Attack,Centre-Forward,21,2500000,Spezia Calcio,serie-a,0(4),32.0,-,-,0.5,0.3,-,-,-,0.3,0.3,6.03
+782476,1158,Yoann,Cathline,Yoann Cathline,Attack,Left Winger,20,2500000,FC Lorient,ligue-1,11(12),1085.0,1,1,1.1,0.3,1,1.2,-,1.2,1.7,6.38
+152963,44,Florian,Niederlechner,Florian Niederlechner,Attack,Centre-Forward,32,2200000,Hertha BSC,bundesliga,11(5),787.0,1,-,1.3,0.3,0.7,1,0.6,0.4,0.7,6.42
+45403,703,André,Ayew,André Ayew,Attack,Left Winger,33,2200000,Nottingham Forest,premier-league,1(12),307.0,-,-,0.3,0.1,0.1,0.6,0.1,0.3,0.2,6.07
+39152,367,Radamel,Falcao,Radamel Falcao,Attack,Centre-Forward,36,2000000,Rayo Vallecano,laliga,3(24),598.0,2,-,0.8,0.1,0.1,0.5,0.4,0.3,1.1,6.1
+339820,237,Amath,Ndiaye,Amath Ndiaye,Attack,Left Winger,26,2000000,RCD Mallorca,laliga,12(16),1220.0,2,-,0.8,0.1,0.5,0.9,0.3,0.8,1.5,6.29
+60540,969,Valère,Germain,Valère Germain,Attack,Centre-Forward,32,2000000,Montpellier HSC,ligue-1,5(26),673.0,2,-,0.6,0.2,-,0.1,0.1,0.3,0.7,6.23
+324344,3,Dimitrios,Limnios,Dimitrios Limnios,Attack,Right Winger,24,2000000,1.FC Köln,bundesliga,0(2),38.0,-,-,0.5,1,1,0.5,-,0.5,-,6.29
+553285,3,Tim,Lemperle,Tim Lemperle,Attack,Centre-Forward,20,2000000,1.FC Köln,bundesliga,0(12),120.0,-,-,0.2,0.3,0.3,-,-,0.5,0.5,6.13
+422460,714,Dani,Gómez,Dani Gómez,Attack,Centre-Forward,24,2000000,RCD Espanyol Barcelona,laliga,0(8),83.0,-,-,-,0.1,0.1,0.3,0.5,0.3,0.4,6.05
+585700,150,Juan,Cruz,Juan Cruz,Attack,Right Winger,22,2000000,Real Betis Balompié,laliga,1(5),174.0,1,-,0.8,0.3,0.5,0.3,0.2,0.3,0.7,6.3
+42783,167,André,Hahn,André Hahn,Attack,Right Winger,32,2000000,FC Augsburg,bundesliga,4(3),389.0,2,-,1.0,0.1,0.1,0.4,0.1,0.1,1.9,6.67
+32711,18,Patrick,Herrmann,Patrick Herrmann,Attack,Right Winger,31,2000000,Borussia Mönchengladbach,bundesliga,0(21),151.0,1,-,0.3,0.2,-,0.2,-,0.2,-,6.04
+163222,6574,Grégoire,Defrel,Grégoire Defrel,Attack,Centre-Forward,31,2000000,US Sassuolo,serie-a,13(14),1168.0,2,1,0.6,0.3,0.3,0.5,0.2,0.6,1.0,6.2
+290593,1420,Sada,Thioub,Sada Thioub,Attack,Right Winger,27,2000000,Angers SCO,ligue-1,11(16),1056.0,1,2,0.3,0.6,0.6,0.2,-,0.7,0.6,6.26
+59323,12321,Cristhian,Stuani,Cristhian Stuani,Attack,Centre-Forward,36,2000000,Girona FC,laliga,8(24),1078.0,9,-,1.1,0.3,-,0.7,0.2,0.2,0.7,6.33
+598765,2687,Brian,Ocampo,Brian Ocampo,Attack,Left Winger,23,2000000,Cádiz CF,laliga,15(3),1129.0,1,1,0.7,0.9,1.1,1.5,0.1,1.6,1.7,6.51
+618425,79,Tanguy,Coulibaly,Tanguy Coulibaly,Attack,Right Winger,21,2000000,VfB Stuttgart,bundesliga,0(14),318.0,4,-,0.9,0.4,0.8,0.4,0.2,0.6,0.5,6.52
+46104,44,Stevan,Jovetic,Stevan Jovetic,Attack,Centre-Forward,33,2000000,Hertha BSC,bundesliga,8(9),887.0,4,2,1.6,0.8,0.6,1.1,0.4,0.5,1.2,6.6
+591796,1147,Moussa,Djitté,Moussa Djitté,Attack,Centre-Forward,23,2000000,AC Ajaccio,ligue-1,1(5),134.0,-,-,0.3,0.2,-,0.5,-,0.3,1.3,5.97
+227961,3709,Jaime,Mata,Jaime Mata,Attack,Centre-Forward,34,2000000,Getafe CF,laliga,6(13),436.0,1,1,0.7,0.3,0.1,0.4,0.2,0.4,0.8,6.24
+436585,39,Delano,Burgzorg,Delano Burgzorg,Attack,Left Winger,24,2000000,1.FSV Mainz 05,bundesliga,0(13),237.0,-,1,0.3,0.1,0.5,0.3,0.2,0.5,1,6.06
+145769,366,Sergio,León,Sergio León,Attack,Centre-Forward,33,2000000,Real Valladolid CF,laliga,14(15),1332.0,6,1,1,0.4,0.3,0.8,0.7,0.6,1.6,6.28
+448177,44,Jessic,Ngankam,Jessic Ngankam,Attack,Centre-Forward,22,2000000,Hertha BSC,bundesliga,8(10),825.0,4,-,1.1,0.3,0.6,0.7,0.1,1,1.4,6.33
+708265,1041,Bradley,Barcola,Bradley Barcola,Attack,Right Winger,20,2000000,Olympique Lyon,ligue-1,15(11),1438.0,5,8,1.0,1.0,1.5,0.3,0.3,0.3,1.4,6.94
+85383,2687,Rubén,Sobrino,Rubén Sobrino,Attack,Centre-Forward,30,2000000,Cádiz CF,laliga,28(5),2471.0,3,2,1,0.7,0.9,1.6,0.2,1.3,1.7,6.68
+260316,3524,Komnen,Andric,Komnen Andric,Attack,Centre-Forward,27,2000000,Clermont Foot 63,ligue-1,16(18),1442.0,4,3,0.9,0.4,0.2,1.2,0.2,0.9,1.4,6.34
+340205,621,Gorka,Guruzeta,Gorka Guruzeta,Attack,Centre-Forward,26,2000000,Athletic Bilbao,laliga,17(13),1421.0,6,1,1.7,0.5,0.3,0.5,0.5,0.7,1.3,6.52
+329723,79,Gil,Dias,Gil Dias,Attack,Right Winger,26,2000000,VfB Stuttgart,bundesliga,6(1),403.0,1,-,1.4,1.1,1.4,0.7,0.3,1.6,2.4,6.6
+459151,749,Nicolò,Cambiaghi,Nicolò Cambiaghi,Attack,Left Winger,22,2000000,FC Empoli,serie-a,12(16),1282.0,6,1,1.3,0.5,0.8,2.1,-,0.8,1.6,6.61
+608469,276,Adolfo,Gaich,Adolfo Gaich,Attack,Centre-Forward,23,1800000,Hellas Verona,serie-a,8(8),724.0,2,-,1.5,0.4,0.7,0.8,0.3,0.6,1.4,6.34
+93936,331,Kike,García,Kike García,Attack,Centre-Forward,33,1800000,CA Osasuna,laliga,7(28),999.0,2,-,1.2,0.4,0.3,0.7,0.2,0.5,1.7,6.23
+255838,2919,Patrick,Ciurria,Patrick Ciurria,Attack,Right Winger,27,1800000,AC Monza,serie-a,31(5),2757.0,6,5,1.4,1.0,0.5,1.1,0.2,0.4,1.3,6.74
+175014,1147,Youcef,Belaïli,Youcef Belaïli,Attack,Left Winger,30,1800000,AC Ajaccio,ligue-1,4(2),359.0,-,2,1.5,1.3,0.7,1.3,0.3,0.7,2.7,6.41
+980576,1420,Amine,Salama,Amine Salama,Attack,Centre-Forward,22,1800000,Angers SCO,ligue-1,12(13),1245.0,3,1,1,0.4,0.9,0.4,0.2,0.8,1.9,6.35
+33713,180,Theo,Walcott,Theo Walcott,Attack,Right Winger,33,1800000,Southampton FC,premier-league,13(7),1134.0,2,2,1.0,0.8,0.6,0.5,0.8,0.6,1.2,6.38
+178459,3,Davie,Selke,Davie Selke,Attack,Centre-Forward,27,1800000,1.FC Köln,bundesliga,3(10),276.0,1,1,0.5,0.3,0.1,0.5,-,0.3,0.6,6.31
+170966,3524,Jérémie,Bela,Jérémie Bela,Attack,Left Winger,29,1800000,Clermont Foot 63,ligue-1,7(12),737.0,1,1,0.6,0.2,0.5,0.9,-,0.4,1,6.28
+246204,367,Salvi,Sánchez,Salvi Sánchez,Attack,Right Winger,31,1800000,Rayo Vallecano,laliga,4(20),475.0,-,-,0.4,0.3,0.1,0.4,0.1,0.3,0.4,6.09
+88490,714,Aleix,Vidal,Aleix Vidal,Attack,Right Winger,33,1800000,RCD Espanyol Barcelona,laliga,10(15),1025.0,-,3,0.1,0.6,0.3,0.7,-,0.3,0.6,6.25
+371142,1421,Myziane,Maolida,Myziane Maolida,Attack,Left Winger,23,1750000,Stade Reims,ligue-1,1(2),94.0,-,-,-,0.3,0.7,-,-,1.7,1,6.04
+60957,33,Sebastian,Polter,Sebastian Polter,Attack,Centre-Forward,31,1700000,FC Schalke 04,bundesliga,5(14),619.0,2,3,0.6,0.5,0.1,0.6,0.2,0.6,1.4,6.35
+331496,12321,Valery,Fernández,Valery Fernández,Attack,Right Winger,23,1500000,Girona FC,laliga,7(18),959.0,-,2,0.3,0.7,0.5,0.6,0.2,0.4,0.7,6.31
+321647,3524,Grejohn,Kyei,Grejohn Kyei,Attack,Centre-Forward,27,1500000,Clermont Foot 63,ligue-1,26(11),2244.0,10,3,1.6,0.4,1.1,1.1,0.4,1.3,2.6,6.65
+138803,3302,Francisco,Portillo,Francisco Portillo,Attack,Right Winger,32,1500000,UD Almería,laliga,4(23),706.0,2,1,0.2,0.5,0.3,0.1,0.1,0.3,0.4,6.27
+308133,415,Ado,Onaiwu,Ado Onaiwu,Attack,Centre-Forward,27,1500000,FC Toulouse,ligue-1,9(25),1073.0,2,1,0.6,0.2,0.2,0.4,0.1,0.8,0.7,6.22
+353365,995,Marcus,Coco,Marcus Coco,Attack,Right Winger,26,1500000,FC Nantes,ligue-1,6(20),629.0,1,-,0.3,0.4,0.3,0.4,0.1,0.4,0.7,6.32
+239949,989,Jamal,Lowe,Jamal Lowe,Attack,Right Winger,28,1500000,AFC Bournemouth,premier-league,0(2),11.0,-,-,-,-,-,-,-,-,-,5.99
+42936,60,Nils,Petersen,Nils Petersen,Attack,Centre-Forward,34,1500000,SC Freiburg,bundesliga,0(27),257.0,1,-,0.3,-,-,0.1,0.1,0.1,0.6,6.1
+623040,276,Yayah,Kallon,Yayah Kallon,Attack,Right Winger,21,1500000,Hellas Verona,serie-a,8(14),856.0,1,1,0.9,0.6,0.4,1,0.2,0.7,1.3,6.28
+750886,1095,Alexis,Tibidi,Alexis Tibidi,Attack,Left Winger,19,1500000,ESTAC Troyes,ligue-1,0(3),73.0,-,-,-,-,0.7,0.3,-,0.3,0.3,6.13
+315283,1421,Kaj,Sierhuis,Kaj Sierhuis,Attack,Centre-Forward,24,1500000,Stade Reims,ligue-1,1(13),208.0,-,-,0.4,-,0.1,0.3,-,0.4,0.4,6.09
+82048,1025,Nicola,Sansone,Nicola Sansone,Attack,Left Winger,31,1500000,Bologna FC 1909,serie-a,8(10),740.0,4,2,1.2,0.4,0.3,0.9,0.6,0.8,1.3,6.5
+652996,415,Saïd,Hamulic,Saïd Hamulic,Attack,Centre-Forward,22,1500000,FC Toulouse,ligue-1,0(6),101.0,-,-,0.2,0.2,0.5,0.2,0.2,0.7,0.5,6.01
+84765,749,Francesco,Caputo,Francesco Caputo,Attack,Centre-Forward,35,1500000,FC Empoli,serie-a,13(2),1100.0,1,-,1.3,0.6,0.2,1.6,0.7,0.9,1.4,6.16
+427161,667,Lebo,Mothiba,Lebo Mothiba,Attack,Centre-Forward,26,1500000,RC Strasbourg Alsace,ligue-1,3(16),428.0,3,-,0.5,0.1,0.2,0.6,-,0.4,0.8,6.22
+119557,33,Kenan,Karaman,Kenan Karaman,Attack,Centre-Forward,28,1400000,FC Schalke 04,bundesliga,10(11),971.0,1,2,1,0.3,0.5,1.1,0.3,0.9,1.4,6.33
+358032,276,Cyril,Ngonge,Cyril Ngonge,Attack,Right Winger,22,1300000,Hellas Verona,serie-a,9(5),747.0,3,1,1.9,0.8,0.9,0.8,0.4,0.9,1.6,6.56
+281755,2687,Iván,Alejo,Iván Alejo,Attack,Right Winger,27,1200000,Cádiz CF,laliga,13(18),1304.0,-,1,0.7,0.7,0.4,1.4,0.1,0.7,1.2,6.22
+511550,29,Ellis,Simms,Ellis Simms,Attack,Centre-Forward,21,1200000,Everton FC,premier-league,2(9),221.0,1,-,0.7,0.2,0.2,0.1,0.1,0.2,0.5,6.15
+177452,237,Abdón,Prats,Abdón Prats,Attack,Centre-Forward,30,1200000,RCD Mallorca,laliga,2(24),398.0,1,1,0.2,0.3,0.1,0.2,0.1,0.5,0.3,6.14
+186988,89,Sven,Michel,Sven Michel,Attack,Centre-Forward,32,1200000,1.FC Union Berlin,bundesliga,2(19),480.0,3,1,0.8,0.3,0.1,0.2,0.2,0.3,1,6.28
+845568,3302,Marko,Milovanovic,Marko Milovanovic,Attack,Centre-Forward,19,1200000,UD Almería,laliga,0(2),14.0,-,-,0.5,-,-,-,-,1.5,-,5.99
+569140,290,Lassine,Sinayoko,Lassine Sinayoko,Attack,Right Winger,23,1200000,AJ Auxerre,ligue-1,16(17),1569.0,1,2,1.3,0.7,0.8,0.7,0.2,1,1.3,6.4
+18644,2687,Álvaro,Negredo,Álvaro Negredo,Attack,Centre-Forward,37,1200000,Cádiz CF,laliga,9(12),756.0,1,2,1.0,0.5,0.2,0.4,0.3,0.3,0.9,6.35
+79967,80,Simon,Zoller,Simon Zoller,Attack,Centre-Forward,31,1100000,VfL Bochum,bundesliga,19(8),1463.0,3,2,1.1,0.3,0.1,0.3,0.3,0.2,0.7,6.23
+634427,940,Miguel,Rodríguez,Miguel Rodríguez,Attack,Centre-Forward,19,1000000,Celta de Vigo,laliga,3(4),252.0,1,1,0.4,0.1,0.4,1.1,0.1,0.6,0.9,6.43
+538810,2687,Chris,Ramos,Chris Ramos,Attack,Centre-Forward,25,1000000,Cádiz CF,laliga,7(8),707.0,1,-,2.1,0.3,0.5,0.8,-,0.2,1.6,6.64
+819636,82,Dzenan,Pejcinovic,Dzenan Pejcinovic,Attack,Centre-Forward,17,1000000,VfL Wolfsburg,bundesliga,0(1),10.0,-,-,-,-,-,-,-,-,-,6.02
+67556,276,Milan,Djuric,Milan Djuric,Attack,Centre-Forward,32,1000000,Hellas Verona,serie-a,14(14),1364.0,1,1,0.6,0.8,0.1,1,0.2,0.5,0.9,6.74
+532495,39,Marlon,Mustapha,Marlon Mustapha,Attack,Centre-Forward,21,1000000,1.FSV Mainz 05,bundesliga,0(6),67.0,-,-,0.5,0.2,0.3,-,0.2,0.3,1.2,6.05
+283871,3,Florian,Dietz,Florian Dietz,Attack,Centre-Forward,24,1000000,1.FC Köln,bundesliga,4(7),394.0,1,-,1.5,0.4,0.1,0.1,0.1,0.8,1.6,6.3
+51510,237,Ángel,Rodríguez,Ángel Rodríguez,Attack,Centre-Forward,35,1000000,RCD Mallorca,laliga,3(15),382.0,1,-,0.7,0.2,0.1,0.3,0.1,0.2,0.7,6.15
+648046,1237,Evan,Ferguson,Evan Ferguson,Attack,Centre-Forward,18,1000000,Brighton & Hove Albion,premier-league,10(9),952.0,6,2,1.9,0.6,0.4,0.6,0.3,1.1,1.5,6.67
+36284,33,Simon,Terodde,Simon Terodde,Attack,Centre-Forward,34,1000000,FC Schalke 04,bundesliga,21(11),1825.0,5,-,1.4,0.7,0.1,1.1,0.8,0.5,1.3,6.49
+287920,33,Tim,Skarke,Tim Skarke,Attack,Right Winger,26,1000000,FC Schalke 04,bundesliga,0(3),51.0,-,-,1.3,0.3,0.3,-,-,1.3,1,6.06
+769063,398,Luka,Romero,Luka Romero,Attack,Right Winger,18,1000000,SS Lazio,serie-a,1(5),148.0,1,-,0.8,0.3,0.3,1,-,0.7,0.8,6.26
+126552,1420,Loïs,Diony,Loïs Diony,Attack,Centre-Forward,30,1000000,Angers SCO,ligue-1,5(6),503.0,1,-,1.1,0.5,0.3,0.4,0.3,0.7,1.5,6.2
+531277,367,Andrés,Martín,Andrés Martín,Attack,Centre-Forward,23,1000000,Rayo Vallecano,laliga,3(6),203.0,-,-,0.4,0.1,0.3,0.3,-,0.2,0.8,6.2
+470391,276,Jayden,Braaf,Jayden Braaf,Attack,Centre-Forward,20,1000000,Hellas Verona,serie-a,2(4),289.0,-,-,1.5,0.3,2.5,0.2,0.5,2.5,2.2,6.45
+289182,80,Christopher,Antwi-Adjei,Christopher Antwi-Adjei,Attack,Left Winger,28,1000000,VfL Bochum,bundesliga,22(7),1990.0,3,6,1,1.1,1.1,1.4,0.5,1.1,3.1,6.6
+157036,3302,Dyego,Sousa,Dyego Sousa,Attack,Centre-Forward,33,1000000,UD Almería,laliga,3(17),516.0,-,1,0.7,0.5,0.3,0.6,0.2,0.6,1.4,6.28
+22328,1038,Fabio,Quagliarella,Fabio Quagliarella,Attack,Centre-Forward,39,1000000,UC Sampdoria,serie-a,7(16),797.0,1,1,1.6,0.3,0.2,0.8,0.3,0.2,1.0,6.14
+623521,3709,Juanmi,Latasa,Juanmi Latasa,Attack,Centre-Forward,21,1000000,Getafe CF,laliga,2(16),437.0,1,-,0.8,0.3,0.1,0.6,0.1,0.5,1.3,6.4
+796213,39,Nelson,Weiper,Nelson Weiper,Attack,Centre-Forward,17,1000000,1.FSV Mainz 05,bundesliga,0(9),94.0,2,-,0.6,0.2,-,0.2,0.3,0.1,0.2,6.26
+267147,1147,Cyrille,Bayala,Cyrille Bayala,Attack,Right Winger,26,1000000,AC Ajaccio,ligue-1,25(8),2017.0,1,1,0.7,0.6,0.8,0.8,0.2,1.1,1.7,6.39
+392545,2239,Frank,Tsadjout,Frank Tsadjout,Attack,Centre-Forward,23,900000,US Cremonese,serie-a,14(6),1057.0,3,1,1.3,0.5,0.6,0.9,0.2,0.5,1.9,6.58
+99232,2919,Marco,D'Alessandro,Marco D'Alessandro,Attack,Right Winger,31,900000,AC Monza,serie-a,3(5),287.0,-,-,0.5,0.4,0.1,1.1,0.1,0.6,0.5,6.1
+117432,89,Kevin,Behrens,Kevin Behrens,Attack,Centre-Forward,31,900000,1.FC Union Berlin,bundesliga,17(16),1536.0,8,1,1.1,0.6,0.4,0.8,0.4,0.6,1.4,6.83
+928323,273,Ibrahim,Salah,Ibrahim Salah,Attack,Left Winger,21,800000,Stade Rennais FC,ligue-1,1(12),218.0,-,-,0.5,0.5,1,0.1,0.2,0.3,0.4,6.29
+187384,2239,Cristian,Buonaiuto,Cristian Buonaiuto,Attack,Left Winger,30,800000,US Cremonese,serie-a,7(22),970.0,1,-,1.5,0.6,0.7,0.8,-,1,1.2,6.34
+371554,1147,Kevin,Spadanuda,Kevin Spadanuda,Attack,Left Winger,25,800000,AC Ajaccio,ligue-1,13(9),1069.0,-,1,0.3,0.4,1,1,-,1,1.3,6.26
+221311,366,Iván,Sánchez,Iván Sánchez,Attack,Right Winger,30,800000,Real Valladolid CF,laliga,13(12),1122.0,1,1,0.7,0.7,1.4,1.7,-,0.6,0.8,6.57
+624920,969,Béni,Makouana,Béni Makouana,Attack,Left Winger,20,800000,Montpellier HSC,ligue-1,1(7),194.0,-,-,0.8,0.1,0.3,0.1,-,0.6,0.5,6.06
+87672,989,Junior,Stanislas,Junior Stanislas,Attack,Left Winger,33,700000,AFC Bournemouth,premier-league,0(4),58.0,-,-,0.3,0.5,-,-,-,0.3,0.3,6.03
+503988,703,Alex,Mighten,Alex Mighten,Attack,Left Winger,20,600000,Nottingham Forest,premier-league,0(1),7.0,-,-,-,-,-,1,-,-,-,5.95
+38410,167,Daniel,Caligiuri,Daniel Caligiuri,Attack,Right Winger,34,600000,FC Augsburg,bundesliga,2(11),285.0,1,-,0.5,0.3,0.4,0.3,-,0.3,0.4,6.24
+98349,1147,Romain,Hamouma,Romain Hamouma,Attack,Centre-Forward,35,600000,AC Ajaccio,ligue-1,14(5),1091.0,2,2,0.8,0.7,0.8,0.8,0.2,0.7,2,6.31
+54581,410,Ilija,Nestorovski,Ilija Nestorovski,Attack,Centre-Forward,32,600000,Udinese Calcio,serie-a,5(16),626.0,2,1,0.7,0.1,0.1,1,0.2,0.1,0.7,6.31
+948275,418,Álvaro,Rodríguez,Álvaro Rodríguez,Attack,Centre-Forward,18,500000,Real Madrid,laliga,0(6),76.0,1,1,0.3,0.2,-,-,0.5,0.5,0.8,6.27
+466602,3911,Karamoko,Dembélé,Karamoko Dembélé,Attack,Right Winger,19,500000,Stade Brestois 29,ligue-1,0(15),165.0,-,-,0.3,0.2,0.1,0.6,-,0.5,0.5,6.06
+802747,1158,Siriné,Doucouré,Siriné Doucouré,Attack,Centre-Forward,20,500000,FC Lorient,ligue-1,0(12),126.0,-,1,0.6,0.4,0.6,0.8,-,0.5,1.2,6.25
+68718,1147,Yoann,Touzghar,Yoann Touzghar,Attack,Centre-Forward,36,500000,AC Ajaccio,ligue-1,5(6),447.0,-,-,0.3,0.1,0.2,0.5,0.3,0.4,0.9,5.98
+649457,1147,Jean,Botué,Jean Botué,Attack,Left Winger,20,500000,AC Ajaccio,ligue-1,2(6),225.0,-,-,0.9,0.4,0.1,0.8,-,0.1,1.3,6.09
+818888,1025,Antonio,Raimondo,Antonio Raimondo,Attack,Centre-Forward,18,500000,Bologna FC 1909,serie-a,0(2),13.0,-,-,-,-,-,-,-,0.5,0.5,6.04
+855056,3911,Taïryk,Arconte,Taïryk Arconte,Attack,Right Winger,19,400000,Stade Brestois 29,ligue-1,1(3),126.0,-,-,0.5,0.5,0.8,0.5,0.3,0.5,1.0,6.23
+675565,79,Thomas,Kastanaras,Thomas Kastanaras,Attack,Centre-Forward,19,400000,VfB Stuttgart,bundesliga,1(3),71.0,-,-,0.5,0.3,-,-,-,-,1.3,5.95
+678441,1038,Daniele,Montevago,Daniele Montevago,Attack,Centre-Forward,19,400000,UC Sampdoria,serie-a,3(3),228.0,-,-,1.2,0.7,-,0.7,0.7,0.7,1.5,6.1
+524290,533,Fisnik,Asllani,Fisnik Asllani,Attack,Centre-Forward,20,400000,TSG 1899 Hoffenheim,bundesliga,0(8),162.0,-,-,1.1,0.4,0.1,0.4,0.3,0.3,0.9,6.05
+174304,290,Rémy,Dugimont,Rémy Dugimont,Attack,Left Winger,36,300000,AJ Auxerre,ligue-1,0(11),105.0,-,1,0.4,0.3,-,0.1,0.2,0.1,0.2,6.14
+748070,79,Alou,Kuol,Alou Kuol,Attack,Centre-Forward,21,300000,VfB Stuttgart,bundesliga,0(1),5.0,-,-,-,-,-,-,-,1,-,5.92
+820957,44,Derry,Scherhant,Derry Scherhant,Attack,Centre-Forward,20,300000,Hertha BSC,bundesliga,2(8),280.0,1,-,0.4,0.1,0.6,0.2,-,0.8,0.8,6.16
+119104,1147,Riad,Nouri,Riad Nouri,Attack,Right Winger,37,250000,AC Ajaccio,ligue-1,16(17),1692.0,1,1,0.5,0.8,0.4,0.5,0.2,0.5,0.9,6.24
+29605,2239,Daniel,Ciofani,Daniel Ciofani,Attack,Centre-Forward,37,200000,US Cremonese,serie-a,10(22),1058.0,8,-,1.0,0.3,-,0.5,0.2,0.3,0.8,6.34
+460660,1420,Jason,Mbock,Jason Mbock,Attack,Left Winger,23,200000,Angers SCO,ligue-1,0(2),23.0,-,-,-,0.5,-,-,0.5,-,-,5.95
+406973,80,Moritz,Broschinski,Moritz Broschinski,Attack,Centre-Forward,22,175000,VfL Bochum,bundesliga,0(11),204.0,2,-,0.5,0.1,-,0.1,-,0.5,1.2,6.21
+707242,417,Badredine,Bouanani,Badredine Bouanani,Attack,Right Winger,18,150000,OGC Nice,ligue-1,9(10),861.0,-,4,1.3,1.2,1.4,1.1,0.1,0.7,1.2,6.72
+827950,290,Ousmane,Camara,Ousmane Camara,Attack,Centre-Forward,21,100000,AJ Auxerre,ligue-1,0(3),22.0,-,-,0.3,0.3,-,-,-,-,-,6.08
+552059,800,Lukas,Vorlicky,Lukas Vorlicky,Attack,Left Winger,20,50000,Atalanta BC,serie-a,0(3),23.0,-,-,0.3,-,1.3,-,-,0.3,0.3,6.22
